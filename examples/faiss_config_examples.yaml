@@ -1,0 +1,111 @@
+# Example configuration for using Faiss vector store in docs2vecs
+# This shows how to configure different Faiss index types in your pipeline
+
+# Configuration for Faiss Flat Index (Exact Search)
+faiss_flat_config:
+  skills:
+    - name: "multi-file-scanner"
+      type: "file-scanner"
+      config:
+        input_path: "/path/to/documents"
+        file_extensions: [".txt", ".md", ".pdf"]
+    
+    - name: "multi-file-reader" 
+      type: "file-reader"
+      config:
+        chunk_size: 1000
+    
+    - name: "llama-fastembed"
+      type: "embedding"
+      config:
+        model_name: "BAAI/bge-small-en-v1.5"
+        
+    - name: "faiss"
+      type: "vector-store"
+      config:
+        index_path: "./data/faiss_flat.index"
+        metadata_path: "./data/faiss_flat_metadata.json"
+        index_type: "flat"
+        dimension: 384  # Must match embedding model dimension
+
+# Configuration for Faiss IVF Index (Approximate Search)
+faiss_ivf_config:
+  skills:
+    - name: "multi-file-scanner"
+      type: "file-scanner"
+      config:
+        input_path: "/path/to/documents"
+        file_extensions: [".txt", ".md", ".pdf"]
+    
+    - name: "multi-file-reader"
+      type: "file-reader"
+      config:
+        chunk_size: 1000
+    
+    - name: "llama-fastembed"
+      type: "embedding"
+      config:
+        model_name: "BAAI/bge-base-en-v1.5"
+        
+    - name: "faiss"
+      type: "vector-store"
+      config:
+        index_path: "./data/faiss_ivf.index"
+        metadata_path: "./data/faiss_ivf_metadata.json"
+        index_type: "ivf"
+        dimension: 768  # Must match embedding model dimension
+        nlist: 100      # Number of clusters (adjust based on dataset size)
+
+# Configuration for Faiss HNSW Index (Fast Approximate Search)
+faiss_hnsw_config:
+  skills:
+    - name: "multi-file-scanner"
+      type: "file-scanner"
+      config:
+        input_path: "/path/to/documents"
+        file_extensions: [".txt", ".md", ".pdf"]
+    
+    - name: "multi-file-reader"
+      type: "file-reader"
+      config:
+        chunk_size: 1000
+    
+    - name: "llama-fastembed"
+      type: "embedding"
+      config:
+        model_name: "BAAI/bge-large-en-v1.5"
+        
+    - name: "faiss"
+      type: "vector-store"
+      config:
+        index_path: "./data/faiss_hnsw.index"
+        metadata_path: "./data/faiss_hnsw_metadata.json"
+        index_type: "hnsw"
+        dimension: 1024        # Must match embedding model dimension
+        m: 64                  # Number of connections per layer
+        ef_construction: 200   # Size of dynamic candidate list
+
+# Performance Guidelines:
+# 
+# Flat Index:
+# - Use for: < 100K vectors or when exact results are required
+# - Pros: 100% accurate results, simple to use
+# - Cons: Slower for large datasets, memory intensive
+#
+# IVF Index: 
+# - Use for: 100K - 10M vectors
+# - Pros: Good balance of speed and accuracy, memory efficient
+# - Cons: Requires training, approximate results
+# - Notes: Increase nlist for better accuracy (but slower search)
+#
+# HNSW Index:
+# - Use for: Fast queries on any size dataset
+# - Pros: Very fast search, good accuracy, no training required
+# - Cons: Higher memory usage, more complex parameters
+# - Notes: Increase m and ef_construction for better accuracy
+
+# Integration Steps:
+# 1. Add FAISS = "faiss" to AvailableSkillName enum in factory.py
+# 2. Import FaissVectorStoreSkill in factory.py  
+# 3. Add to SKILLS_REGISTRY under SkillType.VECTOR_STORE
+# 4. Use one of the above configs in your pipeline YAML files

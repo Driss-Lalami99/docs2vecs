@@ -15,6 +15,7 @@ from docs2vecs.subcommands.indexer.skills.recursive_character_splitter_skill imp
 from docs2vecs.subcommands.indexer.skills.scrollwordexporter_skill import ScrollWorldExporterSkill
 from docs2vecs.subcommands.indexer.skills.semantic_splitter_skill import SemanticSplitter
 from docs2vecs.subcommands.indexer.skills.tracker import VectorStoreTracker
+from docs2vecs.subcommands.indexer.skills.faiss_vector_store_skill import FaissVectorStoreSkill
 
 
 class SkillType(StrEnum):
@@ -42,6 +43,7 @@ class AvailableSkillName(StrEnum):
     # vector stores
     AZ_AISearch = "azure-ai-search"
     CHROMADB = "chromadb"
+    FAISSDB = "faissdb"
 
     # uplaoders
     AZ_BLOB_STORE = "azure-blob-store"
@@ -74,6 +76,7 @@ AVAILABLE_SKILLS = {
     SkillType.VECTOR_STORE: {
         AvailableSkillName.AZ_AISearch: AzureVectorStoreSkill,
         AvailableSkillName.CHROMADB: ChromaDBVectorStoreSkill,
+        AvailableSkillName.FAISSDB: FaissVectorStoreSkill,
     },
     SkillType.UPLOADER: {AvailableSkillName.AZ_BLOB_STORE: AzureBlobStoreUploaderSkill},
     SkillType.SPLITTER: {

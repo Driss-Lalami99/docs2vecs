@@ -1,0 +1,681 @@
+2025-07-09 16:56:07,000 - ScrollWorldExporterSkill - INFO - Running ScrollWorldExporter
+2025-07-09 16:56:07,000 - ScrollWorldExporterSkill - DEBUG - Exporting confluence page: 2181814267
+2025-07-09 17:09:41,120 - ScrollWorldExporterSkill - INFO - Running ScrollWorldExporter
+2025-07-09 17:09:41,120 - ScrollWorldExporterSkill - DEBUG - Exporting confluence page: 2181814267
+2025-07-10 16:51:31,924 - ScrollWorldExporterSkill - INFO - Running ScrollWorldExporter
+2025-07-10 16:51:31,924 - ScrollWorldExporterSkill - DEBUG - Exporting confluence page: 2181814267
+2025-07-10 17:21:21,629 - ScrollWorldExporterSkill - INFO - Running ScrollWorldExporter
+2025-07-10 17:21:21,629 - ScrollWorldExporterSkill - DEBUG - Exporting confluence page: 2181814267
+2025-07-11 10:52:40,876 - ScrollWorldExporterSkill - INFO - Running ScrollWorldExporter
+2025-07-11 10:52:40,877 - ScrollWorldExporterSkill - DEBUG - Exporting confluence page: 2181814267
+2025-07-11 11:35:46,035 - ScrollWorldExporterSkill - INFO - Running ScrollWorldExporter
+2025-07-11 11:35:46,038 - ScrollWorldExporterSkill - DEBUG - Exporting confluence page: 2181814267
+2025-07-11 11:35:50,862 - ScrollWorldExporterSkill - DEBUG - Step 1 of 3 (0%)
+2025-07-11 11:35:53,459 - ScrollWorldExporterSkill - DEBUG - Step 2 of 3 (0%)
+2025-07-11 11:35:56,024 - ScrollWorldExporterSkill - DEBUG - Step 2 of 3 (0%)
+2025-07-11 11:35:58,629 - ScrollWorldExporterSkill - DEBUG - Step 3 of 3 (100%)
+2025-07-11 11:39:53,515 - ScrollWorldExporterSkill - INFO - Running ScrollWorldExporter
+2025-07-11 11:39:53,515 - ScrollWorldExporterSkill - DEBUG - Exporting confluence page: 2181814267
+2025-07-11 11:39:57,785 - ScrollWorldExporterSkill - DEBUG - Step 2 of 3 (0%)
+2025-07-11 11:40:00,403 - ScrollWorldExporterSkill - DEBUG - Step 2 of 3 (0%)
+2025-07-11 11:40:03,006 - ScrollWorldExporterSkill - DEBUG - Step 2 of 3 (100%)
+2025-07-11 11:40:05,585 - ScrollWorldExporterSkill - DEBUG - Step 3 of 3 (100%)
+2025-07-11 11:40:08,195 - ScrollWorldExporterSkill - DEBUG - Step 3 of 3 (100%)
+2025-07-11 11:40:10,179 - ScrollWorldExporterSkill - DEBUG - Stored downloaded file at: C:\Users\dlalami\Downloads\sw_export_temp\[ACT Extension] Settings-v28-20250711_094003.docx
+2025-07-11 11:40:10,179 - ScrollWorldExporterSkill - DEBUG - Exporting confluence page: 1840972304
+2025-07-11 11:40:14,461 - ScrollWorldExporterSkill - DEBUG - Step 1 of 3 (0%)
+2025-07-11 11:40:17,043 - ScrollWorldExporterSkill - DEBUG - Step 2 of 3 (100%)
+2025-07-11 11:40:19,648 - ScrollWorldExporterSkill - DEBUG - Step 3 of 3 (100%)
+2025-07-11 11:40:20,956 - ScrollWorldExporterSkill - DEBUG - Stored downloaded file at: C:\Users\dlalami\Downloads\sw_export_temp\[ACT Extension] Mocking-v8-20250711_094017.docx
+2025-07-11 11:40:20,956 - ScrollWorldExporterSkill - DEBUG - Exporting confluence page: 1904188751
+2025-07-11 11:40:25,243 - ScrollWorldExporterSkill - DEBUG - Step 1 of 3 (0%)
+2025-07-11 11:40:27,841 - ScrollWorldExporterSkill - DEBUG - Step 2 of 3 (0%)
+2025-07-11 11:40:30,456 - ScrollWorldExporterSkill - DEBUG - Step 2 of 3 (0%)
+2025-07-11 11:40:33,059 - ScrollWorldExporterSkill - DEBUG - Step 2 of 3 (0%)
+2025-07-11 11:40:35,636 - ScrollWorldExporterSkill - DEBUG - Step 3 of 3 (100%)
+2025-07-11 11:40:38,275 - ScrollWorldExporterSkill - DEBUG - Step 3 of 3 (100%)
+2025-07-11 11:40:40,457 - ScrollWorldExporterSkill - DEBUG - Stored downloaded file at: C:\Users\dlalami\Downloads\sw_export_temp\[ACT Extension] Common errors-v38-20250711_094035.docx
+2025-07-11 11:40:40,457 - ScrollWorldExporterSkill - DEBUG - Exporting confluence page: 1840972267
+2025-07-11 11:40:45,149 - ScrollWorldExporterSkill - DEBUG - Step 1 of 3 (0%)
+2025-07-11 11:40:47,752 - ScrollWorldExporterSkill - DEBUG - Step 2 of 3 (0%)
+2025-07-11 11:40:50,343 - ScrollWorldExporterSkill - DEBUG - Step 2 of 3 (0%)
+2025-07-11 11:40:52,943 - ScrollWorldExporterSkill - DEBUG - Step 2 of 3 (0%)
+2025-07-11 11:40:55,554 - ScrollWorldExporterSkill - DEBUG - Step 2 of 3 (0%)
+2025-07-11 11:40:58,166 - ScrollWorldExporterSkill - DEBUG - Step 2 of 3 (0%)
+2025-07-11 11:41:00,771 - ScrollWorldExporterSkill - DEBUG - Step 2 of 3 (20%)
+2025-07-11 11:41:03,349 - ScrollWorldExporterSkill - DEBUG - Step 2 of 3 (20%)
+2025-07-11 11:41:05,979 - ScrollWorldExporterSkill - DEBUG - Step 2 of 3 (40%)
+2025-07-11 11:41:08,773 - ScrollWorldExporterSkill - DEBUG - Step 2 of 3 (60%)
+2025-07-11 11:41:11,377 - ScrollWorldExporterSkill - DEBUG - Step 2 of 3 (80%)
+2025-07-11 11:41:13,969 - ScrollWorldExporterSkill - DEBUG - Step 2 of 3 (80%)
+2025-07-11 11:41:16,570 - ScrollWorldExporterSkill - DEBUG - Step 2 of 3 (80%)
+2025-07-11 11:41:19,167 - ScrollWorldExporterSkill - DEBUG - Step 3 of 3 (20%)
+2025-07-11 11:41:21,804 - ScrollWorldExporterSkill - DEBUG - Step 3 of 3 (100%)
+2025-07-11 11:41:24,390 - ScrollWorldExporterSkill - DEBUG - Step 3 of 3 (100%)
+2025-07-11 11:41:27,065 - ScrollWorldExporterSkill - DEBUG - Stored downloaded file at: C:\Users\dlalami\Downloads\sw_export_temp\[ACT Extension] User manual-v54-20250711_094118.docx
+2025-07-11 11:41:27,065 - ScrollWorldExporterSkill - DEBUG - Exporting confluence page: 1840972290
+2025-07-11 11:41:31,350 - ScrollWorldExporterSkill - DEBUG - Step 1 of 3 (0%)
+2025-07-11 11:41:33,926 - ScrollWorldExporterSkill - DEBUG - Step 2 of 3 (0%)
+2025-07-11 11:41:36,508 - ScrollWorldExporterSkill - DEBUG - Step 2 of 3 (0%)
+2025-07-11 11:41:39,095 - ScrollWorldExporterSkill - DEBUG - Step 2 of 3 (0%)
+2025-07-11 11:41:41,680 - ScrollWorldExporterSkill - DEBUG - Step 3 of 3 (0%)
+2025-07-11 11:41:44,316 - ScrollWorldExporterSkill - DEBUG - Step 3 of 3 (100%)
+2025-07-11 11:41:46,353 - ScrollWorldExporterSkill - DEBUG - Stored downloaded file at: C:\Users\dlalami\Downloads\sw_export_temp\[ACT Extension] Prerequisites-v49-20250711_094141.docx
+2025-07-11 11:41:46,353 - DefaultFileReader - INFO - Running DefaultFileReader...
+2025-07-11 11:41:51,674 - DefaultFileReader - INFO - Error reading file C:\Users\dlalami\Downloads\sw_export_temp\[ACT Extension] Settings-v28-20250711_094003.docx: 
+**********************************************************************
+  Resource [93maveraged_perceptron_tagger_eng[0m not found.
+  Please use the NLTK Downloader to obtain the resource:
+
+  [31m>>> import nltk
+  >>> nltk.download('averaged_perceptron_tagger_eng')
+  [0m
+  For more information see: https://www.nltk.org/data.html
+
+  Attempted to load [93mtaggers/averaged_perceptron_tagger_eng/[0m
+
+  Searched in:
+    - 'C:\\Users\\dlalami/nltk_data'
+    - 'C:\\Users\\dlalami\\projects\\docs2vecs\\.venv\\nltk_data'
+    - 'C:\\Users\\dlalami\\projects\\docs2vecs\\.venv\\share\\nltk_data'
+    - 'C:\\Users\\dlalami\\projects\\docs2vecs\\.venv\\lib\\nltk_data'
+    - 'C:\\Users\\dlalami\\AppData\\Roaming\\nltk_data'
+    - 'C:\\nltk_data'
+    - 'D:\\nltk_data'
+    - 'E:\\nltk_data'
+    - 'C:\\Users\\dlalami\\projects\\docs2vecs\\.venv\\Lib\\site-packages\\llama_index\\core\\_static/nltk_cache'
+**********************************************************************
+
+2025-07-11 11:41:52,055 - DefaultFileReader - INFO - Successfully read file: C:\Users\dlalami\Downloads\sw_export_temp\[ACT Extension] Mocking-v8-20250711_094017.docx
+2025-07-11 11:41:52,131 - DefaultFileReader - INFO - Successfully read file: C:\Users\dlalami\Downloads\sw_export_temp\[ACT Extension] Common errors-v38-20250711_094035.docx
+2025-07-11 11:41:52,198 - DefaultFileReader - INFO - Error reading file C:\Users\dlalami\Downloads\sw_export_temp\[ACT Extension] User manual-v54-20250711_094118.docx: 
+**********************************************************************
+  Resource [93maveraged_perceptron_tagger_eng[0m not found.
+  Please use the NLTK Downloader to obtain the resource:
+
+  [31m>>> import nltk
+  >>> nltk.download('averaged_perceptron_tagger_eng')
+  [0m
+  For more information see: https://www.nltk.org/data.html
+
+  Attempted to load [93mtaggers/averaged_perceptron_tagger_eng/[0m
+
+  Searched in:
+    - 'C:\\Users\\dlalami/nltk_data'
+    - 'C:\\Users\\dlalami\\projects\\docs2vecs\\.venv\\nltk_data'
+    - 'C:\\Users\\dlalami\\projects\\docs2vecs\\.venv\\share\\nltk_data'
+    - 'C:\\Users\\dlalami\\projects\\docs2vecs\\.venv\\lib\\nltk_data'
+    - 'C:\\Users\\dlalami\\AppData\\Roaming\\nltk_data'
+    - 'C:\\nltk_data'
+    - 'D:\\nltk_data'
+    - 'E:\\nltk_data'
+    - 'C:\\Users\\dlalami\\projects\\docs2vecs\\.venv\\Lib\\site-packages\\llama_index\\core\\_static/nltk_cache'
+**********************************************************************
+
+2025-07-11 11:41:52,237 - DefaultFileReader - INFO - Error reading file C:\Users\dlalami\Downloads\sw_export_temp\[ACT Extension] Prerequisites-v49-20250711_094141.docx: 
+**********************************************************************
+  Resource [93maveraged_perceptron_tagger_eng[0m not found.
+  Please use the NLTK Downloader to obtain the resource:
+
+  [31m>>> import nltk
+  >>> nltk.download('averaged_perceptron_tagger_eng')
+  [0m
+  For more information see: https://www.nltk.org/data.html
+
+  Attempted to load [93mtaggers/averaged_perceptron_tagger_eng/[0m
+
+  Searched in:
+    - 'C:\\Users\\dlalami/nltk_data'
+    - 'C:\\Users\\dlalami\\projects\\docs2vecs\\.venv\\nltk_data'
+    - 'C:\\Users\\dlalami\\projects\\docs2vecs\\.venv\\share\\nltk_data'
+    - 'C:\\Users\\dlalami\\projects\\docs2vecs\\.venv\\lib\\nltk_data'
+    - 'C:\\Users\\dlalami\\AppData\\Roaming\\nltk_data'
+    - 'C:\\nltk_data'
+    - 'D:\\nltk_data'
+    - 'E:\\nltk_data'
+    - 'C:\\Users\\dlalami\\projects\\docs2vecs\\.venv\\Lib\\site-packages\\llama_index\\core\\_static/nltk_cache'
+**********************************************************************
+
+2025-07-11 11:41:52,237 - DefaultFileReader - INFO - Finished reading 2 documents
+2025-07-11 11:41:52,237 - RecursiveCharacterTextSplitter - INFO - Running RecursiveCharacterTextSplitter...
+2025-07-11 11:41:52,237 - RecursiveCharacterTextSplitter - DEBUG - Splitting C:\Users\dlalami\Downloads\sw_export_temp\[ACT Extension] Mocking-v8-20250711_094017.docx...
+2025-07-11 11:41:52,237 - RecursiveCharacterTextSplitter - DEBUG - Split C:\Users\dlalami\Downloads\sw_export_temp\[ACT Extension] Mocking-v8-20250711_094017.docx into 1 chunks
+2025-07-11 11:41:52,237 - RecursiveCharacterTextSplitter - DEBUG - Splitting C:\Users\dlalami\Downloads\sw_export_temp\[ACT Extension] Common errors-v38-20250711_094035.docx...
+2025-07-11 11:41:52,237 - RecursiveCharacterTextSplitter - DEBUG - Split C:\Users\dlalami\Downloads\sw_export_temp\[ACT Extension] Common errors-v38-20250711_094035.docx into 1 chunks
+2025-07-11 11:41:52,237 - AzureAda002EmbeddingSkill - INFO - Running Azure Embedding Skill with deployment name: text-embedding-ada-002...
+2025-07-11 11:41:52,237 - AzureAda002EmbeddingSkill - INFO - Processing a total of documents: 2. Total number of chunks: 2
+2025-07-11 11:41:52,237 - AzureAda002EmbeddingSkill - DEBUG - Processing document: C:\Users\dlalami\Downloads\sw_export_temp\[ACT Extension] Mocking-v8-20250711_094017.docx
+2025-07-11 11:41:52,237 - AzureAda002EmbeddingSkill - DEBUG - Creating embedding for chunk: 303537cf3a19dfac8a2040d5e98bd98f331936263d45d624067e0a6f9d4d7851
+2025-07-11 15:02:54,148 - ScrollWorldExporterSkill - INFO - Running ScrollWorldExporter
+2025-07-11 15:02:54,149 - ScrollWorldExporterSkill - DEBUG - Exporting confluence page: 2181814267
+2025-07-11 15:02:58,640 - ScrollWorldExporterSkill - DEBUG - Step 1 of 3 (0%)
+2025-07-11 15:03:01,264 - ScrollWorldExporterSkill - DEBUG - Step 2 of 3 (0%)
+2025-07-11 15:03:03,916 - ScrollWorldExporterSkill - DEBUG - Step 2 of 3 (0%)
+2025-07-11 15:03:06,547 - ScrollWorldExporterSkill - DEBUG - Step 2 of 3 (100%)
+2025-07-11 15:03:09,138 - ScrollWorldExporterSkill - DEBUG - Step 3 of 3 (0%)
+2025-07-11 15:03:11,739 - ScrollWorldExporterSkill - DEBUG - Step 3 of 3 (100%)
+2025-07-11 15:03:14,316 - ScrollWorldExporterSkill - DEBUG - Step 3 of 3 (100%)
+2025-07-11 15:03:16,171 - ScrollWorldExporterSkill - DEBUG - Stored downloaded file at: C:\Users\dlalami\Downloads\sw_export_temp\[ACT Extension] Settings-v28-20250711_130307.docx
+2025-07-11 15:03:16,172 - ScrollWorldExporterSkill - DEBUG - Exporting confluence page: 1840972304
+2025-07-11 15:03:20,405 - ScrollWorldExporterSkill - DEBUG - Step 2 of 3 (0%)
+2025-07-11 15:03:23,029 - ScrollWorldExporterSkill - DEBUG - Step 2 of 3 (100%)
+2025-07-11 15:03:25,620 - ScrollWorldExporterSkill - DEBUG - Step 3 of 3 (100%)
+2025-07-11 15:03:26,942 - ScrollWorldExporterSkill - DEBUG - Stored downloaded file at: C:\Users\dlalami\Downloads\sw_export_temp\[ACT Extension] Mocking-v8-20250711_130322.docx
+2025-07-11 15:03:26,942 - ScrollWorldExporterSkill - DEBUG - Exporting confluence page: 1904188751
+2025-07-11 15:03:31,306 - ScrollWorldExporterSkill - DEBUG - Step 1 of 3 (0%)
+2025-07-11 15:03:33,886 - ScrollWorldExporterSkill - DEBUG - Step 1 of 3 (0%)
+2025-07-11 15:03:36,499 - ScrollWorldExporterSkill - DEBUG - Step 2 of 3 (0%)
+2025-07-11 15:03:39,094 - ScrollWorldExporterSkill - DEBUG - Step 2 of 3 (0%)
+2025-07-11 15:03:41,683 - ScrollWorldExporterSkill - DEBUG - Step 2 of 3 (0%)
+2025-07-11 15:03:44,283 - ScrollWorldExporterSkill - DEBUG - Step 2 of 3 (100%)
+2025-07-11 15:03:46,867 - ScrollWorldExporterSkill - DEBUG - Step 3 of 3 (0%)
+2025-07-11 15:03:49,449 - ScrollWorldExporterSkill - DEBUG - Step 3 of 3 (100%)
+2025-07-11 15:03:51,597 - ScrollWorldExporterSkill - DEBUG - Stored downloaded file at: C:\Users\dlalami\Downloads\sw_export_temp\[ACT Extension] Common errors-v38-20250711_130346.docx
+2025-07-11 15:03:51,597 - ScrollWorldExporterSkill - DEBUG - Exporting confluence page: 1840972267
+2025-07-11 15:03:56,209 - ScrollWorldExporterSkill - DEBUG - Step 1 of 3 (0%)
+2025-07-11 15:03:58,806 - ScrollWorldExporterSkill - DEBUG - Step 2 of 3 (0%)
+2025-07-11 15:04:01,395 - ScrollWorldExporterSkill - DEBUG - Step 2 of 3 (0%)
+2025-07-11 15:04:04,042 - ScrollWorldExporterSkill - DEBUG - Step 2 of 3 (0%)
+2025-07-11 15:04:06,662 - ScrollWorldExporterSkill - DEBUG - Step 2 of 3 (0%)
+2025-07-11 15:04:09,284 - ScrollWorldExporterSkill - DEBUG - Step 2 of 3 (0%)
+2025-07-11 15:04:11,860 - ScrollWorldExporterSkill - DEBUG - Step 2 of 3 (0%)
+2025-07-11 15:04:14,447 - ScrollWorldExporterSkill - DEBUG - Step 2 of 3 (20%)
+2025-07-11 15:04:17,034 - ScrollWorldExporterSkill - DEBUG - Step 2 of 3 (20%)
+2025-07-11 15:04:19,607 - ScrollWorldExporterSkill - DEBUG - Step 2 of 3 (40%)
+2025-07-11 15:04:22,177 - ScrollWorldExporterSkill - DEBUG - Step 2 of 3 (60%)
+2025-07-11 15:04:24,777 - ScrollWorldExporterSkill - DEBUG - Step 2 of 3 (80%)
+2025-07-11 15:04:27,394 - ScrollWorldExporterSkill - DEBUG - Step 2 of 3 (80%)
+2025-07-11 15:04:29,984 - ScrollWorldExporterSkill - DEBUG - Step 3 of 3 (0%)
+2025-07-11 15:04:32,578 - ScrollWorldExporterSkill - DEBUG - Step 3 of 3 (100%)
+2025-07-11 15:04:35,164 - ScrollWorldExporterSkill - DEBUG - Step 3 of 3 (100%)
+2025-07-11 15:04:37,771 - ScrollWorldExporterSkill - DEBUG - Stored downloaded file at: C:\Users\dlalami\Downloads\sw_export_temp\[ACT Extension] User manual-v54-20250711_130429.docx
+2025-07-11 15:04:37,771 - ScrollWorldExporterSkill - DEBUG - Exporting confluence page: 1840972290
+2025-07-11 15:04:42,041 - ScrollWorldExporterSkill - DEBUG - Step 1 of 3 (0%)
+2025-07-11 15:04:44,631 - ScrollWorldExporterSkill - DEBUG - Step 2 of 3 (0%)
+2025-07-11 15:04:47,204 - ScrollWorldExporterSkill - DEBUG - Step 2 of 3 (0%)
+2025-07-11 15:04:49,779 - ScrollWorldExporterSkill - DEBUG - Step 2 of 3 (0%)
+2025-07-11 15:04:52,391 - ScrollWorldExporterSkill - DEBUG - Step 3 of 3 (100%)
+2025-07-11 15:04:54,366 - ScrollWorldExporterSkill - DEBUG - Stored downloaded file at: C:\Users\dlalami\Downloads\sw_export_temp\[ACT Extension] Prerequisites-v49-20250711_130450.docx
+2025-07-11 15:04:54,367 - FileScannerSkill - INFO - Running FileScannerSkill...
+2025-07-11 15:04:54,367 - FileScannerSkill - DEBUG - Returning 0 documents
+2025-07-11 15:04:54,368 - DefaultFileReader - INFO - Running DefaultFileReader...
+2025-07-11 15:04:54,368 - DefaultFileReader - INFO - No input documents provided
+2025-07-11 15:04:54,369 - RecursiveCharacterTextSplitter - INFO - Running RecursiveCharacterTextSplitter...
+2025-07-11 15:05:09,332 - LlamaFastembedEmbeddingSkill - INFO - Running LlamaFastembedEmbeddingSkill...
+
+2025-07-11 15:05:09,332 - LlamaFastembedEmbeddingSkill - DEBUG - Going to process 0 documents
+2025-07-11 15:14:42,700 - ScrollWorldExporterSkill - INFO - Running ScrollWorldExporter
+2025-07-11 15:14:42,701 - ScrollWorldExporterSkill - DEBUG - Exporting confluence page: 2181814267
+2025-07-11 15:14:47,715 - ScrollWorldExporterSkill - DEBUG - Step 1 of 3 (0%)
+2025-07-11 15:14:50,303 - ScrollWorldExporterSkill - DEBUG - Step 2 of 3 (0%)
+2025-07-11 15:14:52,918 - ScrollWorldExporterSkill - DEBUG - Step 2 of 3 (100%)
+2025-07-11 15:14:55,521 - ScrollWorldExporterSkill - DEBUG - Step 2 of 3 (100%)
+2025-07-11 15:14:58,133 - ScrollWorldExporterSkill - DEBUG - Step 3 of 3 (100%)
+2025-07-11 15:15:00,750 - ScrollWorldExporterSkill - DEBUG - Step 3 of 3 (100%)
+2025-07-11 15:15:02,651 - ScrollWorldExporterSkill - DEBUG - Stored downloaded file at: C:\Users\dlalami\Downloads\sw_export_temp\[ACT Extension] Settings-v28-20250711_131455.docx
+2025-07-11 15:15:02,651 - ScrollWorldExporterSkill - DEBUG - Exporting confluence page: 1840972304
+2025-07-11 15:15:07,434 - ScrollWorldExporterSkill - DEBUG - Step 2 of 3 (0%)
+2025-07-11 15:15:10,024 - ScrollWorldExporterSkill - DEBUG - Step 3 of 3 (100%)
+2025-07-11 15:15:11,328 - ScrollWorldExporterSkill - DEBUG - Stored downloaded file at: C:\Users\dlalami\Downloads\sw_export_temp\[ACT Extension] Mocking-v8-20250711_131509.docx
+2025-07-11 15:15:11,328 - ScrollWorldExporterSkill - DEBUG - Exporting confluence page: 1904188751
+2025-07-11 15:15:15,532 - ScrollWorldExporterSkill - DEBUG - Step 1 of 3 (0%)
+2025-07-11 15:15:18,145 - ScrollWorldExporterSkill - DEBUG - Step 2 of 3 (0%)
+2025-07-11 15:15:20,787 - ScrollWorldExporterSkill - DEBUG - Step 2 of 3 (0%)
+2025-07-11 15:15:23,385 - ScrollWorldExporterSkill - DEBUG - Step 2 of 3 (0%)
+2025-07-11 15:15:25,973 - ScrollWorldExporterSkill - DEBUG - Step 3 of 3 (100%)
+2025-07-11 15:15:28,580 - ScrollWorldExporterSkill - DEBUG - Step 3 of 3 (100%)
+2025-07-11 15:15:30,829 - ScrollWorldExporterSkill - DEBUG - Stored downloaded file at: C:\Users\dlalami\Downloads\sw_export_temp\[ACT Extension] Common errors-v38-20250711_131525.docx
+2025-07-11 15:15:30,829 - ScrollWorldExporterSkill - DEBUG - Exporting confluence page: 1840972267
+2025-07-11 15:15:35,395 - ScrollWorldExporterSkill - DEBUG - Step 1 of 3 (0%)
+2025-07-11 15:15:37,992 - ScrollWorldExporterSkill - DEBUG - Step 2 of 3 (0%)
+2025-07-11 15:15:40,581 - ScrollWorldExporterSkill - DEBUG - Step 2 of 3 (0%)
+2025-07-11 15:15:43,177 - ScrollWorldExporterSkill - DEBUG - Step 2 of 3 (0%)
+2025-07-11 15:15:45,781 - ScrollWorldExporterSkill - DEBUG - Step 2 of 3 (0%)
+2025-07-11 15:15:48,381 - ScrollWorldExporterSkill - DEBUG - Step 2 of 3 (0%)
+2025-07-11 15:15:50,984 - ScrollWorldExporterSkill - DEBUG - Step 2 of 3 (0%)
+2025-07-11 15:15:53,587 - ScrollWorldExporterSkill - DEBUG - Step 2 of 3 (20%)
+2025-07-11 15:15:56,230 - ScrollWorldExporterSkill - DEBUG - Step 2 of 3 (20%)
+2025-07-11 15:15:58,826 - ScrollWorldExporterSkill - DEBUG - Step 2 of 3 (40%)
+2025-07-11 15:16:01,426 - ScrollWorldExporterSkill - DEBUG - Step 2 of 3 (60%)
+2025-07-11 15:16:04,016 - ScrollWorldExporterSkill - DEBUG - Step 2 of 3 (80%)
+2025-07-11 15:16:06,585 - ScrollWorldExporterSkill - DEBUG - Step 2 of 3 (80%)
+2025-07-11 15:16:09,183 - ScrollWorldExporterSkill - DEBUG - Step 2 of 3 (100%)
+2025-07-11 15:16:11,797 - ScrollWorldExporterSkill - DEBUG - Step 3 of 3 (100%)
+2025-07-11 15:16:14,391 - ScrollWorldExporterSkill - DEBUG - Step 3 of 3 (100%)
+2025-07-11 15:16:17,179 - ScrollWorldExporterSkill - DEBUG - Stored downloaded file at: C:\Users\dlalami\Downloads\sw_export_temp\[ACT Extension] User manual-v54-20250711_131609.docx
+2025-07-11 15:16:17,179 - ScrollWorldExporterSkill - DEBUG - Exporting confluence page: 1840972290
+2025-07-11 15:16:22,155 - ScrollWorldExporterSkill - DEBUG - Step 2 of 3 (0%)
+2025-07-11 15:16:24,747 - ScrollWorldExporterSkill - DEBUG - Step 2 of 3 (0%)
+2025-07-11 15:16:27,378 - ScrollWorldExporterSkill - DEBUG - Step 2 of 3 (0%)
+2025-07-11 15:16:29,969 - ScrollWorldExporterSkill - DEBUG - Step 3 of 3 (0%)
+2025-07-11 15:16:32,582 - ScrollWorldExporterSkill - DEBUG - Step 3 of 3 (100%)
+2025-07-11 15:16:34,700 - ScrollWorldExporterSkill - DEBUG - Stored downloaded file at: C:\Users\dlalami\Downloads\sw_export_temp\[ACT Extension] Prerequisites-v49-20250711_131629.docx
+2025-07-11 15:16:34,700 - FileScannerSkill - INFO - Running FileScannerSkill...
+2025-07-11 15:16:34,700 - FileScannerSkill - DEBUG - Returning 0 documents
+2025-07-11 15:16:34,700 - DefaultFileReader - INFO - Running DefaultFileReader...
+2025-07-11 15:16:34,700 - DefaultFileReader - INFO - No input documents provided
+2025-07-11 15:16:34,700 - RecursiveCharacterTextSplitter - INFO - Running RecursiveCharacterTextSplitter...
+2025-07-11 15:16:40,268 - LlamaFastembedEmbeddingSkill - INFO - Running LlamaFastembedEmbeddingSkill...
+
+2025-07-11 15:16:40,268 - LlamaFastembedEmbeddingSkill - DEBUG - Going to process 0 documents
+2025-07-11 15:17:00,203 - ScrollWorldExporterSkill - INFO - Running ScrollWorldExporter
+2025-07-11 15:17:00,203 - ScrollWorldExporterSkill - DEBUG - Exporting confluence page: 2181814267
+2025-07-11 15:17:04,643 - ScrollWorldExporterSkill - DEBUG - Step 1 of 3 (0%)
+2025-07-11 15:17:07,229 - ScrollWorldExporterSkill - DEBUG - Step 2 of 3 (0%)
+2025-07-11 15:17:09,820 - ScrollWorldExporterSkill - DEBUG - Step 2 of 3 (0%)
+2025-07-11 15:17:12,425 - ScrollWorldExporterSkill - DEBUG - Step 3 of 3 (0%)
+2025-07-11 15:17:15,000 - ScrollWorldExporterSkill - DEBUG - Step 3 of 3 (100%)
+2025-07-11 15:17:16,887 - ScrollWorldExporterSkill - DEBUG - Stored downloaded file at: C:\Users\dlalami\Downloads\sw_export_temp\[ACT Extension] Settings-v28-20250711_131711.docx
+2025-07-11 15:17:16,887 - ScrollWorldExporterSkill - DEBUG - Exporting confluence page: 1840972304
+2025-07-11 15:17:21,982 - ScrollWorldExporterSkill - DEBUG - Step 2 of 3 (0%)
+2025-07-11 15:17:24,570 - ScrollWorldExporterSkill - DEBUG - Step 2 of 3 (100%)
+2025-07-11 15:17:27,188 - ScrollWorldExporterSkill - DEBUG - Step 3 of 3 (0%)
+2025-07-11 15:17:29,769 - ScrollWorldExporterSkill - DEBUG - Step 3 of 3 (100%)
+2025-07-11 15:17:31,159 - ScrollWorldExporterSkill - DEBUG - Stored downloaded file at: C:\Users\dlalami\Downloads\sw_export_temp\[ACT Extension] Mocking-v8-20250711_131726.docx
+2025-07-11 15:17:31,159 - ScrollWorldExporterSkill - DEBUG - Exporting confluence page: 1904188751
+2025-07-11 15:17:35,773 - ScrollWorldExporterSkill - DEBUG - Step 1 of 3 (0%)
+2025-07-11 15:17:38,500 - ScrollWorldExporterSkill - DEBUG - Step 2 of 3 (0%)
+2025-07-11 15:17:41,113 - ScrollWorldExporterSkill - DEBUG - Step 2 of 3 (0%)
+2025-07-11 15:17:43,695 - ScrollWorldExporterSkill - DEBUG - Step 2 of 3 (0%)
+2025-07-11 15:17:46,336 - ScrollWorldExporterSkill - DEBUG - Step 3 of 3 (100%)
+2025-07-11 15:17:48,932 - ScrollWorldExporterSkill - DEBUG - Step 3 of 3 (100%)
+2025-07-11 15:17:51,110 - ScrollWorldExporterSkill - DEBUG - Stored downloaded file at: C:\Users\dlalami\Downloads\sw_export_temp\[ACT Extension] Common errors-v38-20250711_131745.docx
+2025-07-11 15:17:51,110 - ScrollWorldExporterSkill - DEBUG - Exporting confluence page: 1840972267
+2025-07-11 15:17:55,247 - ScrollWorldExporterSkill - DEBUG - Step 1 of 3 (0%)
+2025-07-11 15:17:57,876 - ScrollWorldExporterSkill - DEBUG - Step 2 of 3 (0%)
+2025-07-11 15:18:00,489 - ScrollWorldExporterSkill - DEBUG - Step 2 of 3 (0%)
+2025-07-11 15:18:03,091 - ScrollWorldExporterSkill - DEBUG - Step 2 of 3 (0%)
+2025-07-11 15:18:05,679 - ScrollWorldExporterSkill - DEBUG - Step 2 of 3 (0%)
+2025-07-11 15:18:08,311 - ScrollWorldExporterSkill - DEBUG - Step 2 of 3 (0%)
+2025-07-11 15:18:11,070 - ScrollWorldExporterSkill - DEBUG - Step 2 of 3 (0%)
+2025-07-11 15:18:13,669 - ScrollWorldExporterSkill - DEBUG - Step 2 of 3 (20%)
+2025-07-11 15:18:16,270 - ScrollWorldExporterSkill - DEBUG - Step 2 of 3 (20%)
+2025-07-11 15:18:18,863 - ScrollWorldExporterSkill - DEBUG - Step 2 of 3 (40%)
+2025-07-11 15:18:21,473 - ScrollWorldExporterSkill - DEBUG - Step 2 of 3 (60%)
+2025-07-11 15:18:24,091 - ScrollWorldExporterSkill - DEBUG - Step 2 of 3 (80%)
+2025-07-11 15:18:26,706 - ScrollWorldExporterSkill - DEBUG - Step 2 of 3 (80%)
+2025-07-11 15:18:29,313 - ScrollWorldExporterSkill - DEBUG - Step 2 of 3 (100%)
+2025-07-11 15:18:31,933 - ScrollWorldExporterSkill - DEBUG - Step 3 of 3 (100%)
+2025-07-11 15:18:34,511 - ScrollWorldExporterSkill - DEBUG - Step 3 of 3 (100%)
+2025-07-11 15:18:37,070 - ScrollWorldExporterSkill - DEBUG - Stored downloaded file at: C:\Users\dlalami\Downloads\sw_export_temp\[ACT Extension] User manual-v54-20250711_131829.docx
+2025-07-11 15:18:37,080 - ScrollWorldExporterSkill - DEBUG - Exporting confluence page: 1840972290
+2025-07-11 15:18:41,350 - ScrollWorldExporterSkill - DEBUG - Step 2 of 3 (0%)
+2025-07-11 15:18:43,941 - ScrollWorldExporterSkill - DEBUG - Step 2 of 3 (0%)
+2025-07-11 15:18:46,546 - ScrollWorldExporterSkill - DEBUG - Step 2 of 3 (0%)
+2025-07-11 15:18:49,131 - ScrollWorldExporterSkill - DEBUG - Step 2 of 3 (100%)
+2025-07-11 15:18:51,732 - ScrollWorldExporterSkill - DEBUG - Step 3 of 3 (100%)
+2025-07-11 15:18:53,787 - ScrollWorldExporterSkill - DEBUG - Stored downloaded file at: C:\Users\dlalami\Downloads\sw_export_temp\[ACT Extension] Prerequisites-v49-20250711_131849.docx
+2025-07-11 15:18:53,787 - FileScannerSkill - INFO - Running FileScannerSkill...
+2025-07-11 15:18:53,787 - FileScannerSkill - DEBUG - Returning 0 documents
+2025-07-11 15:18:53,787 - DefaultFileReader - INFO - Running DefaultFileReader...
+2025-07-11 15:18:53,787 - DefaultFileReader - INFO - No input documents provided
+2025-07-11 15:18:53,787 - RecursiveCharacterTextSplitter - INFO - Running RecursiveCharacterTextSplitter...
+2025-07-11 15:18:54,395 - LlamaFastembedEmbeddingSkill - INFO - Running LlamaFastembedEmbeddingSkill...
+
+2025-07-11 15:18:54,395 - LlamaFastembedEmbeddingSkill - DEBUG - Going to process 0 documents
+2025-07-11 16:02:04,987 - ScrollWorldExporterSkill - INFO - Running ScrollWorldExporter
+2025-07-11 16:02:04,987 - ScrollWorldExporterSkill - DEBUG - Exporting confluence page: 2181814267
+2025-07-11 16:02:09,589 - ScrollWorldExporterSkill - DEBUG - Step 1 of 3 (0%)
+2025-07-11 16:02:12,206 - ScrollWorldExporterSkill - DEBUG - Step 2 of 3 (0%)
+2025-07-11 16:04:46,644 - FileScannerSkill - INFO - Running FileScannerSkill...
+2025-07-11 16:04:46,645 - FileScannerSkill - DEBUG - Returning 0 documents
+2025-07-11 16:04:46,645 - DefaultFileReader - INFO - Running DefaultFileReader...
+2025-07-11 16:04:46,646 - DefaultFileReader - INFO - No input documents provided
+2025-07-11 16:04:46,646 - RecursiveCharacterTextSplitter - INFO - Running RecursiveCharacterTextSplitter...
+2025-07-11 16:04:47,240 - LlamaFastembedEmbeddingSkill - INFO - Running LlamaFastembedEmbeddingSkill...
+
+2025-07-11 16:04:47,240 - LlamaFastembedEmbeddingSkill - DEBUG - Going to process 0 documents
+2025-07-11 16:04:47,263 - ChromaDBVectorStoreSkill - INFO - Running ChromaDBVectorStoreSkill...
+2025-07-11 16:04:47,898 - ChromaDBVectorStoreSkill - DEBUG - Going to process 0 documents
+2025-07-11 16:16:50,039 - FileScannerSkill - INFO - Running FileScannerSkill...
+2025-07-11 16:16:50,039 - FileScannerSkill - DEBUG - Returning 0 documents
+2025-07-11 16:16:50,041 - DefaultFileReader - INFO - Running DefaultFileReader...
+2025-07-11 16:16:50,041 - DefaultFileReader - INFO - No input documents provided
+2025-07-11 16:16:50,041 - RecursiveCharacterTextSplitter - INFO - Running RecursiveCharacterTextSplitter...
+2025-07-11 16:16:50,846 - LlamaFastembedEmbeddingSkill - INFO - Running LlamaFastembedEmbeddingSkill...
+
+2025-07-11 16:16:50,846 - LlamaFastembedEmbeddingSkill - DEBUG - Going to process 0 documents
+2025-07-11 16:16:50,868 - ChromaDBVectorStoreSkill - INFO - Running ChromaDBVectorStoreSkill...
+2025-07-11 16:16:51,052 - ChromaDBVectorStoreSkill - DEBUG - Going to process 0 documents
+2025-07-11 16:32:17,593 - DefaultFileReader - INFO - Running DefaultFileReader...
+2025-07-11 16:32:17,593 - DefaultFileReader - INFO - No input documents provided
+2025-07-11 16:38:21,524 - FileScannerSkill - INFO - Running FileScannerSkill...
+2025-07-11 16:38:21,524 - FileScannerSkill - DEBUG - Returning 0 documents
+2025-07-11 16:38:21,524 - DefaultFileReader - INFO - Running DefaultFileReader...
+2025-07-11 16:38:21,524 - DefaultFileReader - INFO - No input documents provided
+2025-07-11 16:38:21,524 - RecursiveCharacterTextSplitter - INFO - Running RecursiveCharacterTextSplitter...
+2025-07-11 16:38:22,088 - LlamaFastembedEmbeddingSkill - INFO - Running LlamaFastembedEmbeddingSkill...
+
+2025-07-11 16:38:22,088 - LlamaFastembedEmbeddingSkill - DEBUG - Going to process 0 documents
+2025-07-11 16:38:22,104 - ChromaDBVectorStoreSkill - INFO - Running ChromaDBVectorStoreSkill...
+2025-07-11 16:38:22,258 - ChromaDBVectorStoreSkill - DEBUG - Going to process 0 documents
+2025-07-11 16:56:02,074 - DefaultFileReader - INFO - Running DefaultFileReader...
+2025-07-11 16:56:02,074 - DefaultFileReader - INFO - No input documents provided
+2025-07-11 17:13:25,444 - DefaultFileReader - INFO - Running DefaultFileReader...
+2025-07-11 17:13:25,444 - DefaultFileReader - INFO - No input documents provided
+2025-07-11 17:13:46,168 - FileScannerSkill - INFO - Running FileScannerSkill...
+2025-07-11 17:13:46,168 - FileScannerSkill - INFO - Found file: C:\Users\dlalami\Documents\docs2vec_ressources\test_file.txt
+2025-07-11 17:13:46,168 - FileScannerSkill - DEBUG - Returning 1 documents
+2025-07-11 17:13:46,168 - DefaultFileReader - INFO - Running DefaultFileReader...
+2025-07-11 17:13:46,183 - DefaultFileReader - INFO - Successfully read file: C:\Users\dlalami\Documents\docs2vec_ressources\test_file.txt
+2025-07-11 17:13:46,183 - DefaultFileReader - INFO - Finished reading 1 documents
+2025-07-11 17:17:34,918 - FileScannerSkill - INFO - Running FileScannerSkill...
+2025-07-11 17:17:34,921 - FileScannerSkill - INFO - Found file: C:\Users\dlalami\Documents\docs2vec_ressources\files_to_read\test_file.txt
+2025-07-11 17:17:34,921 - FileScannerSkill - INFO - Found file: C:\Users\dlalami\Documents\docs2vec_ressources\files_to_read\[ACT Extension] Prerequisites-v49-20250711_131849.docx
+2025-07-11 17:17:34,921 - FileScannerSkill - DEBUG - Returning 2 documents
+2025-07-11 17:17:34,922 - DefaultFileReader - INFO - Running DefaultFileReader...
+2025-07-11 17:17:34,923 - DefaultFileReader - INFO - Successfully read file: C:\Users\dlalami\Documents\docs2vec_ressources\files_to_read\test_file.txt
+2025-07-11 17:17:35,785 - DefaultFileReader - INFO - Error reading file C:\Users\dlalami\Documents\docs2vec_ressources\files_to_read\[ACT Extension] Prerequisites-v49-20250711_131849.docx: 
+**********************************************************************
+  Resource [93maveraged_perceptron_tagger_eng[0m not found.
+  Please use the NLTK Downloader to obtain the resource:
+
+  [31m>>> import nltk
+  >>> nltk.download('averaged_perceptron_tagger_eng')
+  [0m
+  For more information see: https://www.nltk.org/data.html
+
+  Attempted to load [93mtaggers/averaged_perceptron_tagger_eng/[0m
+
+  Searched in:
+    - 'C:\\Users\\dlalami/nltk_data'
+    - 'C:\\Users\\dlalami\\projects\\docs2vecs\\.venv\\nltk_data'
+    - 'C:\\Users\\dlalami\\projects\\docs2vecs\\.venv\\share\\nltk_data'
+    - 'C:\\Users\\dlalami\\projects\\docs2vecs\\.venv\\lib\\nltk_data'
+    - 'C:\\Users\\dlalami\\AppData\\Roaming\\nltk_data'
+    - 'C:\\nltk_data'
+    - 'D:\\nltk_data'
+    - 'E:\\nltk_data'
+    - 'C:\\Users\\dlalami\\projects\\docs2vecs\\.venv\\Lib\\site-packages\\llama_index\\core\\_static/nltk_cache'
+**********************************************************************
+
+2025-07-11 17:17:35,785 - DefaultFileReader - INFO - Finished reading 1 documents
+2025-07-11 17:27:36,006 - FileScannerSkill - INFO - Running FileScannerSkill...
+2025-07-11 17:27:36,014 - FileScannerSkill - INFO - Found file: C:\Users\dlalami\Documents\docs2vec_ressources\files_to_read\test_file.txt
+2025-07-11 17:27:36,014 - FileScannerSkill - DEBUG - Returning 1 documents
+2025-07-11 17:27:36,014 - DefaultFileReader - INFO - Running DefaultFileReader...
+2025-07-11 17:27:36,014 - DefaultFileReader - INFO - Successfully read file: C:\Users\dlalami\Documents\docs2vec_ressources\files_to_read\test_file.txt
+2025-07-11 17:27:36,014 - DefaultFileReader - INFO - Finished reading 1 documents
+2025-07-11 17:27:36,014 - RecursiveCharacterTextSplitter - INFO - Running RecursiveCharacterTextSplitter...
+2025-07-11 17:27:36,014 - RecursiveCharacterTextSplitter - DEBUG - Splitting C:\Users\dlalami\Documents\docs2vec_ressources\files_to_read\test_file.txt...
+2025-07-11 17:27:36,014 - RecursiveCharacterTextSplitter - DEBUG - Split C:\Users\dlalami\Documents\docs2vec_ressources\files_to_read\test_file.txt into 1 chunks
+2025-07-11 17:28:27,088 - FileScannerSkill - INFO - Running FileScannerSkill...
+2025-07-11 17:28:27,088 - FileScannerSkill - INFO - Found file: C:\Users\dlalami\Documents\docs2vec_ressources\files_to_read\test_file.txt
+2025-07-11 17:28:27,088 - FileScannerSkill - INFO - Found file: C:\Users\dlalami\Documents\docs2vec_ressources\files_to_read\[ACT Extension] User manual-v54-20250711_131829.docx
+2025-07-11 17:28:27,088 - FileScannerSkill - DEBUG - Returning 2 documents
+2025-07-11 17:28:27,088 - DefaultFileReader - INFO - Running DefaultFileReader...
+2025-07-11 17:28:27,088 - DefaultFileReader - INFO - Successfully read file: C:\Users\dlalami\Documents\docs2vec_ressources\files_to_read\test_file.txt
+2025-07-11 17:28:27,903 - DefaultFileReader - INFO - Error reading file C:\Users\dlalami\Documents\docs2vec_ressources\files_to_read\[ACT Extension] User manual-v54-20250711_131829.docx: 
+**********************************************************************
+  Resource [93maveraged_perceptron_tagger_eng[0m not found.
+  Please use the NLTK Downloader to obtain the resource:
+
+  [31m>>> import nltk
+  >>> nltk.download('averaged_perceptron_tagger_eng')
+  [0m
+  For more information see: https://www.nltk.org/data.html
+
+  Attempted to load [93mtaggers/averaged_perceptron_tagger_eng/[0m
+
+  Searched in:
+    - 'C:\\Users\\dlalami/nltk_data'
+    - 'C:\\Users\\dlalami\\projects\\docs2vecs\\.venv\\nltk_data'
+    - 'C:\\Users\\dlalami\\projects\\docs2vecs\\.venv\\share\\nltk_data'
+    - 'C:\\Users\\dlalami\\projects\\docs2vecs\\.venv\\lib\\nltk_data'
+    - 'C:\\Users\\dlalami\\AppData\\Roaming\\nltk_data'
+    - 'C:\\nltk_data'
+    - 'D:\\nltk_data'
+    - 'E:\\nltk_data'
+    - 'C:\\Users\\dlalami\\projects\\docs2vecs\\.venv\\Lib\\site-packages\\llama_index\\core\\_static/nltk_cache'
+**********************************************************************
+
+2025-07-11 17:28:27,903 - DefaultFileReader - INFO - Finished reading 1 documents
+2025-07-11 17:28:27,903 - RecursiveCharacterTextSplitter - INFO - Running RecursiveCharacterTextSplitter...
+2025-07-11 17:28:27,903 - RecursiveCharacterTextSplitter - DEBUG - Splitting C:\Users\dlalami\Documents\docs2vec_ressources\files_to_read\test_file.txt...
+2025-07-11 17:28:27,903 - RecursiveCharacterTextSplitter - DEBUG - Split C:\Users\dlalami\Documents\docs2vec_ressources\files_to_read\test_file.txt into 1 chunks
+2025-07-11 17:35:51,551 - FileScannerSkill - INFO - Running FileScannerSkill...
+2025-07-11 17:35:51,567 - FileScannerSkill - INFO - Found file: C:\Users\dlalami\Documents\docs2vec_ressources\files_to_read\test_file.txt
+2025-07-11 17:35:51,567 - FileScannerSkill - INFO - Found file: C:\Users\dlalami\Documents\docs2vec_ressources\files_to_read\[ACT Extension] User manual-v54-20250711_131829.docx
+2025-07-11 17:35:51,567 - FileScannerSkill - DEBUG - Returning 2 documents
+2025-07-11 17:35:51,567 - DefaultFileReader - INFO - Running DefaultFileReader...
+2025-07-11 17:35:51,567 - DefaultFileReader - INFO - Successfully read file: C:\Users\dlalami\Documents\docs2vec_ressources\files_to_read\test_file.txt
+2025-07-11 17:35:53,418 - DefaultFileReader - INFO - Successfully read file: C:\Users\dlalami\Documents\docs2vec_ressources\files_to_read\[ACT Extension] User manual-v54-20250711_131829.docx
+2025-07-11 17:35:53,418 - DefaultFileReader - INFO - Finished reading 2 documents
+2025-07-11 17:35:53,418 - RecursiveCharacterTextSplitter - INFO - Running RecursiveCharacterTextSplitter...
+2025-07-11 17:35:53,434 - RecursiveCharacterTextSplitter - DEBUG - Splitting C:\Users\dlalami\Documents\docs2vec_ressources\files_to_read\test_file.txt...
+2025-07-11 17:35:53,434 - RecursiveCharacterTextSplitter - DEBUG - Split C:\Users\dlalami\Documents\docs2vec_ressources\files_to_read\test_file.txt into 1 chunks
+2025-07-11 17:35:53,434 - RecursiveCharacterTextSplitter - DEBUG - Splitting C:\Users\dlalami\Documents\docs2vec_ressources\files_to_read\[ACT Extension] User manual-v54-20250711_131829.docx...
+2025-07-11 17:35:53,434 - RecursiveCharacterTextSplitter - DEBUG - Split C:\Users\dlalami\Documents\docs2vec_ressources\files_to_read\[ACT Extension] User manual-v54-20250711_131829.docx into 2 chunks
+2025-07-11 17:48:22,893 - FileScannerSkill - INFO - Running FileScannerSkill...
+2025-07-11 17:48:22,893 - FileScannerSkill - INFO - Found file: C:\Users\dlalami\Documents\docs2vec_ressources\files_to_read\Nadal_Rolland_Garros_carreer.docx
+2025-07-11 17:48:22,893 - FileScannerSkill - INFO - Found file: C:\Users\dlalami\Documents\docs2vec_ressources\files_to_read\test_file.txt
+2025-07-11 17:48:22,893 - FileScannerSkill - INFO - Found file: C:\Users\dlalami\Documents\docs2vec_ressources\files_to_read\~$dal_Rolland_Garros_carreer.docx
+2025-07-11 17:48:22,893 - FileScannerSkill - DEBUG - Returning 3 documents
+2025-07-11 17:48:22,893 - DefaultFileReader - INFO - Running DefaultFileReader...
+2025-07-11 17:48:24,278 - DefaultFileReader - INFO - Successfully read file: C:\Users\dlalami\Documents\docs2vec_ressources\files_to_read\Nadal_Rolland_Garros_carreer.docx
+2025-07-11 17:48:24,278 - DefaultFileReader - INFO - Successfully read file: C:\Users\dlalami\Documents\docs2vec_ressources\files_to_read\test_file.txt
+2025-07-11 17:48:24,296 - DefaultFileReader - INFO - Error reading file C:\Users\dlalami\Documents\docs2vec_ressources\files_to_read\~$dal_Rolland_Garros_carreer.docx: Package not found at 'C:\Users\dlalami\Documents\docs2vec_ressources\files_to_read\~$dal_Rolland_Garros_carreer.docx'
+2025-07-11 17:48:24,296 - DefaultFileReader - INFO - Finished reading 2 documents
+2025-07-11 17:48:24,298 - RecursiveCharacterTextSplitter - INFO - Running RecursiveCharacterTextSplitter...
+2025-07-11 17:48:24,298 - RecursiveCharacterTextSplitter - DEBUG - Splitting C:\Users\dlalami\Documents\docs2vec_ressources\files_to_read\Nadal_Rolland_Garros_carreer.docx...
+2025-07-11 17:48:24,298 - RecursiveCharacterTextSplitter - DEBUG - Split C:\Users\dlalami\Documents\docs2vec_ressources\files_to_read\Nadal_Rolland_Garros_carreer.docx into 14 chunks
+2025-07-11 17:48:24,298 - RecursiveCharacterTextSplitter - DEBUG - Splitting C:\Users\dlalami\Documents\docs2vec_ressources\files_to_read\test_file.txt...
+2025-07-11 17:48:24,298 - RecursiveCharacterTextSplitter - DEBUG - Split C:\Users\dlalami\Documents\docs2vec_ressources\files_to_read\test_file.txt into 1 chunks
+2025-07-11 17:49:40,046 - FileScannerSkill - INFO - Running FileScannerSkill...
+2025-07-11 17:49:40,046 - FileScannerSkill - INFO - Found file: C:\Users\dlalami\Documents\docs2vec_ressources\files_to_read\Nadal_Rolland_Garros_carreer.docx
+2025-07-11 17:49:40,046 - FileScannerSkill - INFO - Found file: C:\Users\dlalami\Documents\docs2vec_ressources\files_to_read\test_file.txt
+2025-07-11 17:49:40,046 - FileScannerSkill - INFO - Found file: C:\Users\dlalami\Documents\docs2vec_ressources\files_to_read\~$dal_Rolland_Garros_carreer.docx
+2025-07-11 17:49:40,046 - FileScannerSkill - DEBUG - Returning 3 documents
+2025-07-11 17:49:40,046 - DefaultFileReader - INFO - Running DefaultFileReader...
+2025-07-11 17:49:41,135 - DefaultFileReader - INFO - Successfully read file: C:\Users\dlalami\Documents\docs2vec_ressources\files_to_read\Nadal_Rolland_Garros_carreer.docx
+2025-07-11 17:49:41,135 - DefaultFileReader - INFO - Successfully read file: C:\Users\dlalami\Documents\docs2vec_ressources\files_to_read\test_file.txt
+2025-07-11 17:49:41,152 - DefaultFileReader - INFO - Error reading file C:\Users\dlalami\Documents\docs2vec_ressources\files_to_read\~$dal_Rolland_Garros_carreer.docx: Package not found at 'C:\Users\dlalami\Documents\docs2vec_ressources\files_to_read\~$dal_Rolland_Garros_carreer.docx'
+2025-07-11 17:49:41,152 - DefaultFileReader - INFO - Finished reading 2 documents
+2025-07-11 17:49:41,152 - RecursiveCharacterTextSplitter - INFO - Running RecursiveCharacterTextSplitter...
+2025-07-11 17:49:41,152 - RecursiveCharacterTextSplitter - DEBUG - Splitting C:\Users\dlalami\Documents\docs2vec_ressources\files_to_read\Nadal_Rolland_Garros_carreer.docx...
+2025-07-11 17:49:41,162 - RecursiveCharacterTextSplitter - DEBUG - Split C:\Users\dlalami\Documents\docs2vec_ressources\files_to_read\Nadal_Rolland_Garros_carreer.docx into 14 chunks
+2025-07-11 17:49:41,162 - RecursiveCharacterTextSplitter - DEBUG - Splitting C:\Users\dlalami\Documents\docs2vec_ressources\files_to_read\test_file.txt...
+2025-07-11 17:49:41,162 - RecursiveCharacterTextSplitter - DEBUG - Split C:\Users\dlalami\Documents\docs2vec_ressources\files_to_read\test_file.txt into 1 chunks
+2025-07-11 17:57:47,372 - FileScannerSkill - INFO - Running FileScannerSkill...
+2025-07-11 17:57:47,372 - FileScannerSkill - INFO - Found file: C:\Users\dlalami\Documents\docs2vec_ressources\files_to_read\Rafael Nadal and Roland Garros.docx
+2025-07-11 17:57:47,372 - FileScannerSkill - INFO - Found file: C:\Users\dlalami\Documents\docs2vec_ressources\files_to_read\test_file.txt
+2025-07-11 17:57:47,372 - FileScannerSkill - INFO - Found file: C:\Users\dlalami\Documents\docs2vec_ressources\files_to_read\~$fael Nadal and Roland Garros.docx
+2025-07-11 17:57:47,372 - FileScannerSkill - DEBUG - Returning 3 documents
+2025-07-11 17:57:47,372 - DefaultFileReader - INFO - Running DefaultFileReader...
+2025-07-11 17:57:49,136 - DefaultFileReader - INFO - Successfully read file: C:\Users\dlalami\Documents\docs2vec_ressources\files_to_read\Rafael Nadal and Roland Garros.docx
+2025-07-11 17:57:49,137 - DefaultFileReader - INFO - Successfully read file: C:\Users\dlalami\Documents\docs2vec_ressources\files_to_read\test_file.txt
+2025-07-11 17:57:49,157 - DefaultFileReader - INFO - Error reading file C:\Users\dlalami\Documents\docs2vec_ressources\files_to_read\~$fael Nadal and Roland Garros.docx: Package not found at 'C:\Users\dlalami\Documents\docs2vec_ressources\files_to_read\~$fael Nadal and Roland Garros.docx'
+2025-07-11 17:57:49,158 - DefaultFileReader - INFO - Finished reading 2 documents
+2025-07-11 17:57:49,159 - RecursiveCharacterTextSplitter - INFO - Running RecursiveCharacterTextSplitter...
+2025-07-11 17:57:49,159 - RecursiveCharacterTextSplitter - DEBUG - Splitting C:\Users\dlalami\Documents\docs2vec_ressources\files_to_read\Rafael Nadal and Roland Garros.docx...
+2025-07-11 17:57:49,160 - RecursiveCharacterTextSplitter - DEBUG - Split C:\Users\dlalami\Documents\docs2vec_ressources\files_to_read\Rafael Nadal and Roland Garros.docx into 14 chunks
+2025-07-11 17:57:49,160 - RecursiveCharacterTextSplitter - DEBUG - Splitting C:\Users\dlalami\Documents\docs2vec_ressources\files_to_read\test_file.txt...
+2025-07-11 17:57:49,160 - RecursiveCharacterTextSplitter - DEBUG - Split C:\Users\dlalami\Documents\docs2vec_ressources\files_to_read\test_file.txt into 1 chunks
+2025-07-11 17:58:26,838 - FileScannerSkill - INFO - Running FileScannerSkill...
+2025-07-11 17:58:26,840 - FileScannerSkill - INFO - Found file: C:\Users\dlalami\Documents\docs2vec_ressources\files_to_read\Rafael Nadal and Roland Garros.docx
+2025-07-11 17:58:26,840 - FileScannerSkill - INFO - Found file: C:\Users\dlalami\Documents\docs2vec_ressources\files_to_read\test_file.txt
+2025-07-11 17:58:26,840 - FileScannerSkill - INFO - Found file: C:\Users\dlalami\Documents\docs2vec_ressources\files_to_read\~$fael Nadal and Roland Garros.docx
+2025-07-11 17:58:26,840 - FileScannerSkill - DEBUG - Returning 3 documents
+2025-07-11 17:58:26,840 - DefaultFileReader - INFO - Running DefaultFileReader...
+2025-07-11 17:58:28,336 - DefaultFileReader - INFO - Successfully read file: C:\Users\dlalami\Documents\docs2vec_ressources\files_to_read\Rafael Nadal and Roland Garros.docx
+2025-07-11 17:58:28,338 - DefaultFileReader - INFO - Successfully read file: C:\Users\dlalami\Documents\docs2vec_ressources\files_to_read\test_file.txt
+2025-07-11 17:58:28,339 - DefaultFileReader - INFO - Error reading file C:\Users\dlalami\Documents\docs2vec_ressources\files_to_read\~$fael Nadal and Roland Garros.docx: Package not found at 'C:\Users\dlalami\Documents\docs2vec_ressources\files_to_read\~$fael Nadal and Roland Garros.docx'
+2025-07-11 17:58:28,339 - DefaultFileReader - INFO - Finished reading 2 documents
+2025-07-11 17:58:28,355 - RecursiveCharacterTextSplitter - INFO - Running RecursiveCharacterTextSplitter...
+2025-07-11 17:58:28,355 - RecursiveCharacterTextSplitter - DEBUG - Splitting C:\Users\dlalami\Documents\docs2vec_ressources\files_to_read\Rafael Nadal and Roland Garros.docx...
+2025-07-11 17:58:28,356 - RecursiveCharacterTextSplitter - DEBUG - Split C:\Users\dlalami\Documents\docs2vec_ressources\files_to_read\Rafael Nadal and Roland Garros.docx into 1 chunks
+2025-07-11 17:58:28,356 - RecursiveCharacterTextSplitter - DEBUG - Splitting C:\Users\dlalami\Documents\docs2vec_ressources\files_to_read\test_file.txt...
+2025-07-11 17:58:28,356 - RecursiveCharacterTextSplitter - DEBUG - Split C:\Users\dlalami\Documents\docs2vec_ressources\files_to_read\test_file.txt into 1 chunks
+2025-07-11 18:01:22,849 - FileScannerSkill - INFO - Running FileScannerSkill...
+2025-07-11 18:01:22,849 - FileScannerSkill - INFO - Found file: C:\Users\dlalami\Documents\docs2vec_ressources\files_to_read\Rafael Nadal and Roland Garros.docx
+2025-07-11 18:01:22,849 - FileScannerSkill - INFO - Found file: C:\Users\dlalami\Documents\docs2vec_ressources\files_to_read\test_file.txt
+2025-07-11 18:01:22,849 - FileScannerSkill - INFO - Found file: C:\Users\dlalami\Documents\docs2vec_ressources\files_to_read\~$fael Nadal and Roland Garros.docx
+2025-07-11 18:01:22,849 - FileScannerSkill - DEBUG - Returning 3 documents
+2025-07-11 18:01:22,849 - DefaultFileReader - INFO - Running DefaultFileReader...
+2025-07-11 18:01:24,178 - DefaultFileReader - INFO - Successfully read file: C:\Users\dlalami\Documents\docs2vec_ressources\files_to_read\Rafael Nadal and Roland Garros.docx
+2025-07-11 18:01:24,179 - DefaultFileReader - INFO - Successfully read file: C:\Users\dlalami\Documents\docs2vec_ressources\files_to_read\test_file.txt
+2025-07-11 18:01:24,198 - DefaultFileReader - INFO - Error reading file C:\Users\dlalami\Documents\docs2vec_ressources\files_to_read\~$fael Nadal and Roland Garros.docx: Package not found at 'C:\Users\dlalami\Documents\docs2vec_ressources\files_to_read\~$fael Nadal and Roland Garros.docx'
+2025-07-11 18:01:24,198 - DefaultFileReader - INFO - Finished reading 2 documents
+2025-07-11 18:01:24,199 - RecursiveCharacterTextSplitter - INFO - Running RecursiveCharacterTextSplitter...
+2025-07-11 18:01:24,200 - RecursiveCharacterTextSplitter - DEBUG - Splitting C:\Users\dlalami\Documents\docs2vec_ressources\files_to_read\Rafael Nadal and Roland Garros.docx...
+2025-07-11 18:01:24,200 - RecursiveCharacterTextSplitter - DEBUG - Split C:\Users\dlalami\Documents\docs2vec_ressources\files_to_read\Rafael Nadal and Roland Garros.docx into 4 chunks
+2025-07-11 18:01:24,200 - RecursiveCharacterTextSplitter - DEBUG - Splitting C:\Users\dlalami\Documents\docs2vec_ressources\files_to_read\test_file.txt...
+2025-07-11 18:01:24,200 - RecursiveCharacterTextSplitter - DEBUG - Split C:\Users\dlalami\Documents\docs2vec_ressources\files_to_read\test_file.txt into 1 chunks
+2025-07-11 18:17:24,445 - FileScannerSkill - INFO - Running FileScannerSkill...
+2025-07-11 18:17:24,447 - FileScannerSkill - INFO - Found file: C:\Users\dlalami\Documents\docs2vec_ressources\files_to_read\Rafael_Nadal_and_Roland_Garros.docx
+2025-07-11 18:17:24,447 - FileScannerSkill - INFO - Found file: C:\Users\dlalami\Documents\docs2vec_ressources\files_to_read\test_file.txt
+2025-07-11 18:17:24,448 - FileScannerSkill - DEBUG - Returning 2 documents
+2025-07-11 18:17:24,448 - DefaultFileReader - INFO - Running DefaultFileReader...
+2025-07-11 18:17:25,929 - DefaultFileReader - INFO - Successfully read file: C:\Users\dlalami\Documents\docs2vec_ressources\files_to_read\Rafael_Nadal_and_Roland_Garros.docx
+2025-07-11 18:17:25,929 - DefaultFileReader - INFO - Successfully read file: C:\Users\dlalami\Documents\docs2vec_ressources\files_to_read\test_file.txt
+2025-07-11 18:17:25,929 - DefaultFileReader - INFO - Finished reading 2 documents
+2025-07-11 18:17:25,929 - RecursiveCharacterTextSplitter - INFO - Running RecursiveCharacterTextSplitter...
+2025-07-11 18:17:25,929 - RecursiveCharacterTextSplitter - DEBUG - Splitting C:\Users\dlalami\Documents\docs2vec_ressources\files_to_read\Rafael_Nadal_and_Roland_Garros.docx...
+2025-07-11 18:17:25,929 - RecursiveCharacterTextSplitter - DEBUG - Split C:\Users\dlalami\Documents\docs2vec_ressources\files_to_read\Rafael_Nadal_and_Roland_Garros.docx into 4 chunks
+2025-07-11 18:17:25,929 - RecursiveCharacterTextSplitter - DEBUG - Splitting C:\Users\dlalami\Documents\docs2vec_ressources\files_to_read\test_file.txt...
+2025-07-11 18:17:25,929 - RecursiveCharacterTextSplitter - DEBUG - Split C:\Users\dlalami\Documents\docs2vec_ressources\files_to_read\test_file.txt into 1 chunks
+2025-07-11 18:17:26,494 - LlamaFastembedEmbeddingSkill - INFO - Running LlamaFastembedEmbeddingSkill...
+
+2025-07-11 18:17:26,494 - LlamaFastembedEmbeddingSkill - DEBUG - Going to process 2 documents
+2025-07-11 18:17:26,494 - LlamaFastembedEmbeddingSkill - DEBUG - Processing document: C:\Users\dlalami\Documents\docs2vec_ressources\files_to_read\Rafael_Nadal_and_Roland_Garros.docx
+2025-07-11 18:17:26,576 - LlamaFastembedEmbeddingSkill - DEBUG - Processing document: C:\Users\dlalami\Documents\docs2vec_ressources\files_to_read\test_file.txt
+2025-07-11 18:18:38,663 - FileScannerSkill - INFO - Running FileScannerSkill...
+2025-07-11 18:18:38,663 - FileScannerSkill - INFO - Found file: C:\Users\dlalami\Documents\docs2vec_ressources\files_to_read\Rafael_Nadal_and_Roland_Garros.docx
+2025-07-11 18:18:38,663 - FileScannerSkill - INFO - Found file: C:\Users\dlalami\Documents\docs2vec_ressources\files_to_read\test_file.txt
+2025-07-11 18:18:38,663 - FileScannerSkill - DEBUG - Returning 2 documents
+2025-07-11 18:18:38,663 - DefaultFileReader - INFO - Running DefaultFileReader...
+2025-07-11 18:18:39,997 - DefaultFileReader - INFO - Successfully read file: C:\Users\dlalami\Documents\docs2vec_ressources\files_to_read\Rafael_Nadal_and_Roland_Garros.docx
+2025-07-11 18:18:39,997 - DefaultFileReader - INFO - Successfully read file: C:\Users\dlalami\Documents\docs2vec_ressources\files_to_read\test_file.txt
+2025-07-11 18:18:39,997 - DefaultFileReader - INFO - Finished reading 2 documents
+2025-07-11 18:18:39,997 - RecursiveCharacterTextSplitter - INFO - Running RecursiveCharacterTextSplitter...
+2025-07-11 18:18:39,997 - RecursiveCharacterTextSplitter - DEBUG - Splitting C:\Users\dlalami\Documents\docs2vec_ressources\files_to_read\Rafael_Nadal_and_Roland_Garros.docx...
+2025-07-11 18:18:39,997 - RecursiveCharacterTextSplitter - DEBUG - Split C:\Users\dlalami\Documents\docs2vec_ressources\files_to_read\Rafael_Nadal_and_Roland_Garros.docx into 4 chunks
+2025-07-11 18:18:39,997 - RecursiveCharacterTextSplitter - DEBUG - Splitting C:\Users\dlalami\Documents\docs2vec_ressources\files_to_read\test_file.txt...
+2025-07-11 18:18:39,997 - RecursiveCharacterTextSplitter - DEBUG - Split C:\Users\dlalami\Documents\docs2vec_ressources\files_to_read\test_file.txt into 1 chunks
+2025-07-11 18:18:40,494 - LlamaFastembedEmbeddingSkill - INFO - Running LlamaFastembedEmbeddingSkill...
+
+2025-07-11 18:18:40,494 - LlamaFastembedEmbeddingSkill - DEBUG - Going to process 2 documents
+2025-07-11 18:18:40,494 - LlamaFastembedEmbeddingSkill - DEBUG - Processing document: C:\Users\dlalami\Documents\docs2vec_ressources\files_to_read\Rafael_Nadal_and_Roland_Garros.docx
+2025-07-11 18:18:40,538 - LlamaFastembedEmbeddingSkill - DEBUG - Processing document: C:\Users\dlalami\Documents\docs2vec_ressources\files_to_read\test_file.txt
+2025-07-11 18:18:40,548 - ChromaDBVectorStoreSkill - INFO - Running ChromaDBVectorStoreSkill...
+2025-07-11 18:18:40,719 - ChromaDBVectorStoreSkill - DEBUG - Going to process 2 documents
+2025-07-11 18:18:40,719 - ChromaDBVectorStoreSkill - DEBUG - Processing document: C:\Users\dlalami\Documents\docs2vec_ressources\files_to_read\Rafael_Nadal_and_Roland_Garros.docx
+2025-07-11 18:18:40,762 - ChromaDBVectorStoreSkill - DEBUG - Processing document: C:\Users\dlalami\Documents\docs2vec_ressources\files_to_read\test_file.txt
+2025-07-11 18:19:36,261 - FileScannerSkill - INFO - Running FileScannerSkill...
+2025-07-11 18:19:36,261 - FileScannerSkill - INFO - Found file: C:\Users\dlalami\Documents\docs2vec_ressources\files_to_read\Rafael_Nadal_and_Roland_Garros.docx
+2025-07-11 18:19:36,261 - FileScannerSkill - INFO - Found file: C:\Users\dlalami\Documents\docs2vec_ressources\files_to_read\test_file.txt
+2025-07-11 18:19:36,261 - FileScannerSkill - DEBUG - Returning 2 documents
+2025-07-11 18:19:36,261 - DefaultFileReader - INFO - Running DefaultFileReader...
+2025-07-11 18:19:37,887 - DefaultFileReader - INFO - Successfully read file: C:\Users\dlalami\Documents\docs2vec_ressources\files_to_read\Rafael_Nadal_and_Roland_Garros.docx
+2025-07-11 18:19:37,888 - DefaultFileReader - INFO - Successfully read file: C:\Users\dlalami\Documents\docs2vec_ressources\files_to_read\test_file.txt
+2025-07-11 18:19:37,888 - DefaultFileReader - INFO - Finished reading 2 documents
+2025-07-11 18:19:37,889 - RecursiveCharacterTextSplitter - INFO - Running RecursiveCharacterTextSplitter...
+2025-07-11 18:19:37,890 - RecursiveCharacterTextSplitter - DEBUG - Splitting C:\Users\dlalami\Documents\docs2vec_ressources\files_to_read\Rafael_Nadal_and_Roland_Garros.docx...
+2025-07-11 18:19:37,890 - RecursiveCharacterTextSplitter - DEBUG - Split C:\Users\dlalami\Documents\docs2vec_ressources\files_to_read\Rafael_Nadal_and_Roland_Garros.docx into 4 chunks
+2025-07-11 18:19:37,890 - RecursiveCharacterTextSplitter - DEBUG - Splitting C:\Users\dlalami\Documents\docs2vec_ressources\files_to_read\test_file.txt...
+2025-07-11 18:19:37,890 - RecursiveCharacterTextSplitter - DEBUG - Split C:\Users\dlalami\Documents\docs2vec_ressources\files_to_read\test_file.txt into 1 chunks
+2025-07-11 18:19:38,446 - LlamaFastembedEmbeddingSkill - INFO - Running LlamaFastembedEmbeddingSkill...
+
+2025-07-11 18:19:38,446 - LlamaFastembedEmbeddingSkill - DEBUG - Going to process 2 documents
+2025-07-11 18:19:38,446 - LlamaFastembedEmbeddingSkill - DEBUG - Processing document: C:\Users\dlalami\Documents\docs2vec_ressources\files_to_read\Rafael_Nadal_and_Roland_Garros.docx
+2025-07-11 18:19:38,516 - LlamaFastembedEmbeddingSkill - DEBUG - Processing document: C:\Users\dlalami\Documents\docs2vec_ressources\files_to_read\test_file.txt
+2025-07-11 18:19:38,530 - ChromaDBVectorStoreSkill - INFO - Running ChromaDBVectorStoreSkill...
+2025-07-11 18:19:38,787 - ChromaDBVectorStoreSkill - DEBUG - Going to process 2 documents
+2025-07-11 18:19:38,787 - ChromaDBVectorStoreSkill - DEBUG - Processing document: C:\Users\dlalami\Documents\docs2vec_ressources\files_to_read\Rafael_Nadal_and_Roland_Garros.docx
+2025-07-11 18:19:38,819 - ChromaDBVectorStoreSkill - DEBUG - Processing document: C:\Users\dlalami\Documents\docs2vec_ressources\files_to_read\test_file.txt
+2025-07-14 13:09:52,566 - FileScannerSkill - INFO - Running FileScannerSkill...
+2025-07-14 13:09:52,566 - FileScannerSkill - INFO - Found file: C:\Users\dlalami\Documents\docs2vec_ressources\files_to_read\Rafael_Nadal_and_Roland_Garros.docx
+2025-07-14 13:09:52,566 - FileScannerSkill - INFO - Found file: C:\Users\dlalami\Documents\docs2vec_ressources\files_to_read\test_file.txt
+2025-07-14 13:09:52,566 - FileScannerSkill - DEBUG - Returning 2 documents
+2025-07-14 13:09:52,581 - DefaultFileReader - INFO - Running DefaultFileReader...
+2025-07-14 13:09:54,440 - DefaultFileReader - INFO - Successfully read file: C:\Users\dlalami\Documents\docs2vec_ressources\files_to_read\Rafael_Nadal_and_Roland_Garros.docx
+2025-07-14 13:09:54,440 - DefaultFileReader - INFO - Successfully read file: C:\Users\dlalami\Documents\docs2vec_ressources\files_to_read\test_file.txt
+2025-07-14 13:09:54,440 - DefaultFileReader - INFO - Finished reading 2 documents
+2025-07-14 13:09:54,440 - RecursiveCharacterTextSplitter - INFO - Running RecursiveCharacterTextSplitter...
+2025-07-14 13:09:54,440 - RecursiveCharacterTextSplitter - DEBUG - Splitting C:\Users\dlalami\Documents\docs2vec_ressources\files_to_read\Rafael_Nadal_and_Roland_Garros.docx...
+2025-07-14 13:09:54,440 - RecursiveCharacterTextSplitter - DEBUG - Split C:\Users\dlalami\Documents\docs2vec_ressources\files_to_read\Rafael_Nadal_and_Roland_Garros.docx into 4 chunks
+2025-07-14 13:09:54,440 - RecursiveCharacterTextSplitter - DEBUG - Splitting C:\Users\dlalami\Documents\docs2vec_ressources\files_to_read\test_file.txt...
+2025-07-14 13:09:54,440 - RecursiveCharacterTextSplitter - DEBUG - Split C:\Users\dlalami\Documents\docs2vec_ressources\files_to_read\test_file.txt into 1 chunks
+2025-07-14 13:09:56,208 - LlamaFastembedEmbeddingSkill - INFO - Running LlamaFastembedEmbeddingSkill...
+
+2025-07-14 13:09:56,208 - LlamaFastembedEmbeddingSkill - DEBUG - Going to process 2 documents
+2025-07-14 13:09:56,208 - LlamaFastembedEmbeddingSkill - DEBUG - Processing document: C:\Users\dlalami\Documents\docs2vec_ressources\files_to_read\Rafael_Nadal_and_Roland_Garros.docx
+2025-07-14 13:09:56,305 - LlamaFastembedEmbeddingSkill - DEBUG - Processing document: C:\Users\dlalami\Documents\docs2vec_ressources\files_to_read\test_file.txt
+2025-07-14 13:09:56,330 - ChromaDBVectorStoreSkill - INFO - Running ChromaDBVectorStoreSkill...
+2025-07-14 13:09:56,563 - ChromaDBVectorStoreSkill - DEBUG - Going to process 2 documents
+2025-07-14 13:09:56,563 - ChromaDBVectorStoreSkill - DEBUG - Processing document: C:\Users\dlalami\Documents\docs2vec_ressources\files_to_read\Rafael_Nadal_and_Roland_Garros.docx
+2025-07-14 13:09:56,602 - ChromaDBVectorStoreSkill - DEBUG - Processing document: C:\Users\dlalami\Documents\docs2vec_ressources\files_to_read\test_file.txt
+2025-07-14 16:36:14,747 - FileScannerSkill - INFO - Running FileScannerSkill...
+2025-07-14 16:36:14,747 - FileScannerSkill - INFO - Found file: C:\Users\dlalami\Documents\docs2vec_ressources\files_to_read\Rafael_Nadal_and_Roland_Garros.docx
+2025-07-14 16:36:14,747 - FileScannerSkill - INFO - Found file: C:\Users\dlalami\Documents\docs2vec_ressources\files_to_read\test_file.txt
+2025-07-14 16:36:14,747 - FileScannerSkill - DEBUG - Returning 2 documents
+2025-07-14 16:36:14,747 - DefaultFileReader - INFO - Running DefaultFileReader...
+2025-07-14 16:36:16,108 - DefaultFileReader - INFO - Successfully read file: C:\Users\dlalami\Documents\docs2vec_ressources\files_to_read\Rafael_Nadal_and_Roland_Garros.docx
+2025-07-14 16:36:16,109 - DefaultFileReader - INFO - Successfully read file: C:\Users\dlalami\Documents\docs2vec_ressources\files_to_read\test_file.txt
+2025-07-14 16:36:16,109 - DefaultFileReader - INFO - Finished reading 2 documents
+2025-07-14 16:36:16,111 - RecursiveCharacterTextSplitter - INFO - Running RecursiveCharacterTextSplitter...
+2025-07-14 16:36:16,111 - RecursiveCharacterTextSplitter - DEBUG - Splitting C:\Users\dlalami\Documents\docs2vec_ressources\files_to_read\Rafael_Nadal_and_Roland_Garros.docx...
+2025-07-14 16:36:16,111 - RecursiveCharacterTextSplitter - DEBUG - Split C:\Users\dlalami\Documents\docs2vec_ressources\files_to_read\Rafael_Nadal_and_Roland_Garros.docx into 4 chunks
+2025-07-14 16:36:16,111 - RecursiveCharacterTextSplitter - DEBUG - Splitting C:\Users\dlalami\Documents\docs2vec_ressources\files_to_read\test_file.txt...
+2025-07-14 16:36:16,112 - RecursiveCharacterTextSplitter - DEBUG - Split C:\Users\dlalami\Documents\docs2vec_ressources\files_to_read\test_file.txt into 1 chunks
+2025-07-14 16:36:16,736 - LlamaFastembedEmbeddingSkill - INFO - Running LlamaFastembedEmbeddingSkill...
+
+2025-07-14 16:36:16,736 - LlamaFastembedEmbeddingSkill - DEBUG - Going to process 2 documents
+2025-07-14 16:36:16,736 - LlamaFastembedEmbeddingSkill - DEBUG - Processing document: C:\Users\dlalami\Documents\docs2vec_ressources\files_to_read\Rafael_Nadal_and_Roland_Garros.docx
+2025-07-14 16:36:16,789 - LlamaFastembedEmbeddingSkill - DEBUG - Processing document: C:\Users\dlalami\Documents\docs2vec_ressources\files_to_read\test_file.txt
+2025-07-14 16:55:41,961 - FileScannerSkill - INFO - Running FileScannerSkill...
+2025-07-14 16:55:41,977 - FileScannerSkill - INFO - Found file: C:\Users\dlalami\Documents\docs2vec_ressources\files_to_read\Rafael_Nadal_and_Roland_Garros.docx
+2025-07-14 16:55:41,977 - FileScannerSkill - INFO - Found file: C:\Users\dlalami\Documents\docs2vec_ressources\files_to_read\test_file.txt
+2025-07-14 16:55:41,977 - FileScannerSkill - DEBUG - Returning 2 documents
+2025-07-14 16:55:41,981 - DefaultFileReader - INFO - Running DefaultFileReader...
+2025-07-14 16:55:44,357 - DefaultFileReader - INFO - Successfully read file: C:\Users\dlalami\Documents\docs2vec_ressources\files_to_read\Rafael_Nadal_and_Roland_Garros.docx
+2025-07-14 16:55:44,358 - DefaultFileReader - INFO - Successfully read file: C:\Users\dlalami\Documents\docs2vec_ressources\files_to_read\test_file.txt
+2025-07-14 16:55:44,358 - DefaultFileReader - INFO - Finished reading 2 documents
+2025-07-14 16:55:44,359 - RecursiveCharacterTextSplitter - INFO - Running RecursiveCharacterTextSplitter...
+2025-07-14 16:55:44,359 - RecursiveCharacterTextSplitter - DEBUG - Splitting C:\Users\dlalami\Documents\docs2vec_ressources\files_to_read\Rafael_Nadal_and_Roland_Garros.docx...
+2025-07-14 16:55:44,359 - RecursiveCharacterTextSplitter - DEBUG - Split C:\Users\dlalami\Documents\docs2vec_ressources\files_to_read\Rafael_Nadal_and_Roland_Garros.docx into 4 chunks
+2025-07-14 16:55:44,359 - RecursiveCharacterTextSplitter - DEBUG - Splitting C:\Users\dlalami\Documents\docs2vec_ressources\files_to_read\test_file.txt...
+2025-07-14 16:55:44,359 - RecursiveCharacterTextSplitter - DEBUG - Split C:\Users\dlalami\Documents\docs2vec_ressources\files_to_read\test_file.txt into 1 chunks
+2025-07-14 16:55:44,916 - LlamaFastembedEmbeddingSkill - INFO - Running LlamaFastembedEmbeddingSkill...
+
+2025-07-14 16:55:44,932 - LlamaFastembedEmbeddingSkill - DEBUG - Going to process 2 documents
+2025-07-14 16:55:44,932 - LlamaFastembedEmbeddingSkill - DEBUG - Processing document: C:\Users\dlalami\Documents\docs2vec_ressources\files_to_read\Rafael_Nadal_and_Roland_Garros.docx
+2025-07-14 16:55:45,000 - LlamaFastembedEmbeddingSkill - DEBUG - Processing document: C:\Users\dlalami\Documents\docs2vec_ressources\files_to_read\test_file.txt
+2025-07-14 16:57:57,819 - FileScannerSkill - INFO - Running FileScannerSkill...
+2025-07-14 16:57:57,819 - FileScannerSkill - INFO - Found file: C:\Users\dlalami\Documents\docs2vec_ressources\files_to_read\Rafael_Nadal_and_Roland_Garros.docx
+2025-07-14 16:57:57,819 - FileScannerSkill - INFO - Found file: C:\Users\dlalami\Documents\docs2vec_ressources\files_to_read\test_file.txt
+2025-07-14 16:57:57,819 - FileScannerSkill - DEBUG - Returning 2 documents
+2025-07-14 16:57:57,819 - DefaultFileReader - INFO - Running DefaultFileReader...
+2025-07-14 16:57:59,206 - DefaultFileReader - INFO - Successfully read file: C:\Users\dlalami\Documents\docs2vec_ressources\files_to_read\Rafael_Nadal_and_Roland_Garros.docx
+2025-07-14 16:57:59,206 - DefaultFileReader - INFO - Successfully read file: C:\Users\dlalami\Documents\docs2vec_ressources\files_to_read\test_file.txt
+2025-07-14 16:57:59,207 - DefaultFileReader - INFO - Finished reading 2 documents
+2025-07-14 16:57:59,208 - RecursiveCharacterTextSplitter - INFO - Running RecursiveCharacterTextSplitter...
+2025-07-14 16:57:59,208 - RecursiveCharacterTextSplitter - DEBUG - Splitting C:\Users\dlalami\Documents\docs2vec_ressources\files_to_read\Rafael_Nadal_and_Roland_Garros.docx...
+2025-07-14 16:57:59,208 - RecursiveCharacterTextSplitter - DEBUG - Split C:\Users\dlalami\Documents\docs2vec_ressources\files_to_read\Rafael_Nadal_and_Roland_Garros.docx into 4 chunks
+2025-07-14 16:57:59,208 - RecursiveCharacterTextSplitter - DEBUG - Splitting C:\Users\dlalami\Documents\docs2vec_ressources\files_to_read\test_file.txt...
+2025-07-14 16:57:59,208 - RecursiveCharacterTextSplitter - DEBUG - Split C:\Users\dlalami\Documents\docs2vec_ressources\files_to_read\test_file.txt into 1 chunks
+2025-07-14 16:57:59,971 - LlamaFastembedEmbeddingSkill - INFO - Running LlamaFastembedEmbeddingSkill...
+
+2025-07-14 16:57:59,971 - LlamaFastembedEmbeddingSkill - DEBUG - Going to process 2 documents
+2025-07-14 16:57:59,971 - LlamaFastembedEmbeddingSkill - DEBUG - Processing document: C:\Users\dlalami\Documents\docs2vec_ressources\files_to_read\Rafael_Nadal_and_Roland_Garros.docx
+2025-07-14 16:58:00,022 - LlamaFastembedEmbeddingSkill - DEBUG - Processing document: C:\Users\dlalami\Documents\docs2vec_ressources\files_to_read\test_file.txt
+2025-07-14 16:58:00,038 - FaissVectorStoreSkill - INFO - Running FaissVectorStoreSkill...
+2025-07-14 17:01:14,051 - FileScannerSkill - INFO - Running FileScannerSkill...
+2025-07-14 17:01:14,051 - FileScannerSkill - INFO - Found file: C:\Users\dlalami\Documents\docs2vec_ressources\files_to_read\Rafael_Nadal_and_Roland_Garros.docx
+2025-07-14 17:01:14,051 - FileScannerSkill - INFO - Found file: C:\Users\dlalami\Documents\docs2vec_ressources\files_to_read\test_file.txt
+2025-07-14 17:01:14,051 - FileScannerSkill - DEBUG - Returning 2 documents
+2025-07-14 17:01:14,051 - DefaultFileReader - INFO - Running DefaultFileReader...
+2025-07-14 17:01:15,514 - DefaultFileReader - INFO - Successfully read file: C:\Users\dlalami\Documents\docs2vec_ressources\files_to_read\Rafael_Nadal_and_Roland_Garros.docx
+2025-07-14 17:01:15,515 - DefaultFileReader - INFO - Successfully read file: C:\Users\dlalami\Documents\docs2vec_ressources\files_to_read\test_file.txt
+2025-07-14 17:01:15,516 - DefaultFileReader - INFO - Finished reading 2 documents
+2025-07-14 17:01:15,516 - RecursiveCharacterTextSplitter - INFO - Running RecursiveCharacterTextSplitter...
+2025-07-14 17:01:15,516 - RecursiveCharacterTextSplitter - DEBUG - Splitting C:\Users\dlalami\Documents\docs2vec_ressources\files_to_read\Rafael_Nadal_and_Roland_Garros.docx...
+2025-07-14 17:01:15,516 - RecursiveCharacterTextSplitter - DEBUG - Split C:\Users\dlalami\Documents\docs2vec_ressources\files_to_read\Rafael_Nadal_and_Roland_Garros.docx into 4 chunks
+2025-07-14 17:01:15,516 - RecursiveCharacterTextSplitter - DEBUG - Splitting C:\Users\dlalami\Documents\docs2vec_ressources\files_to_read\test_file.txt...
+2025-07-14 17:01:15,516 - RecursiveCharacterTextSplitter - DEBUG - Split C:\Users\dlalami\Documents\docs2vec_ressources\files_to_read\test_file.txt into 1 chunks
+2025-07-14 17:01:16,116 - LlamaFastembedEmbeddingSkill - INFO - Running LlamaFastembedEmbeddingSkill...
+
+2025-07-14 17:01:16,116 - LlamaFastembedEmbeddingSkill - DEBUG - Going to process 2 documents
+2025-07-14 17:01:16,116 - LlamaFastembedEmbeddingSkill - DEBUG - Processing document: C:\Users\dlalami\Documents\docs2vec_ressources\files_to_read\Rafael_Nadal_and_Roland_Garros.docx
+2025-07-14 17:01:16,169 - LlamaFastembedEmbeddingSkill - DEBUG - Processing document: C:\Users\dlalami\Documents\docs2vec_ressources\files_to_read\test_file.txt
+2025-07-14 17:01:16,183 - FaissVectorStoreSkill - INFO - Running FaissVectorStoreSkill...
