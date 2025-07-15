@@ -26,28 +26,16 @@ class FaissVectorStoreSkill(IndexerSkill):
       
     def run(self, input: Optional[List[Document]] = None) -> List[Document]:
         self.logger.info("Running FaissVectorStoreSkill...")
-        print("Hello World !")
         db_path = Path(self._config["db_path"]).expanduser().resolve().as_posix()
-        # faiss_client = self._get_client(db_path)
-    #     faiss_collection = faiss_client.get_or_create_collection(self._config["collection_name"])
-
-    #     self.logger.debug(f"Going to process {len(input)} documents")
-    #     for doc in input:
-    #         self.logger.debug(f"Processing document: {doc.filename}")
-    #         faiss_collection.upsert(
-    #             ids=[chunk.chunk_id for chunk in doc.chunks],
-    #             embeddings=[chunk.embedding for chunk in doc.chunks],
-    #             documents=[chunk.content for chunk in doc.chunks],
-    #             metadatas=[{"source": chunk.source_link, "tags": doc.tag} for chunk in doc.chunks],
-    #         )
-
-    #     return input
+        faiss_index = self.faiss_index()
+        faiss.write_index(faiss_index, db_path)
+        return input
 
 
-    # def faiss_index(self, dimenison: int) -> None:
-    #     print("Hello World !")
-    #     index = faiss.IndexFlatL2(dimenison)  
-    #     self.logger(index.is_trained)
-
+    def faiss_index(self) :   
+        index = faiss.IndexFlatL2(1000)   # build the index
+        print(index.is_trained)                
+        print(index.ntotal)
+        return index
 
     
