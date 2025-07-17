@@ -22,20 +22,25 @@ class FaissVectorStoreSkill(IndexerSkill):
 
     def __init__(self, config: Dict[str, Any], global_config: Config , vector_store_tracker: Optional[VectorStoreTracker] = None) -> None:
         super().__init__(config, global_config)
-        self._vector_store_tracker = vector_store_tracker
-      
+        self._vector_store_tracker = vector_store_tracker     
     def run(self, input: Optional[List[Document]] = None) -> List[Document]:
         self.logger.info("Running FaissVectorStoreSkill...")
         db_path = Path(self._config["db_path"]).expanduser().resolve().as_posix()
-        faiss_index = self.faiss_index()
+        faiss_index = self._faiss_index()
+        data = []
+        for doc in input :
+            self.logger.debug(f"Processing document: {doc.filename}")
+            for chunk in doc.chunks :
+                data.append(chunk.embedding)    
+        array = np.array(data)         
+        faiss_index.add(array)
         faiss.write_index(faiss_index, db_path)
         return input
 
 
-    def faiss_index(self) :   
-        index = faiss.IndexFlatL2(1000)   # build the index
-        print(index.is_trained)                
-        print(index.ntotal)
+    def _faiss_index(self) -> faiss.IndexFlatL2 : 
+        VECTOR_DIMENSION = self._config["dimension"]
+        index = faiss.IndexFlatL2(VECTOR_DIMENSION)   # build the index
         return index
 
     
