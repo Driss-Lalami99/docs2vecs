@@ -24,9 +24,10 @@ class FaissVectorStoreSkill(IndexerSkill):
         super().__init__(config, global_config)
         self._vector_store_tracker = vector_store_tracker     
     def run(self, input: Optional[List[Document]] = None) -> List[Document]:
+        VECTOR_DIMENSION = self._config["dimension"]
         self.logger.info("Running FaissVectorStoreSkill...")
         db_path = Path(self._config["db_path"]).expanduser().resolve().as_posix()
-        faiss_index = self._faiss_index()
+        faiss_index = faiss.IndexFlatL2(VECTOR_DIMENSION)   
         data = []
         for doc in input :
             self.logger.debug(f"Processing document: {doc.filename}")
@@ -37,10 +38,5 @@ class FaissVectorStoreSkill(IndexerSkill):
         faiss.write_index(faiss_index, db_path)
         return input
 
-
-    def _faiss_index(self) -> faiss.IndexFlatL2 : 
-        VECTOR_DIMENSION = self._config["dimension"]
-        index = faiss.IndexFlatL2(VECTOR_DIMENSION)   # build the index
-        return index
 
     
