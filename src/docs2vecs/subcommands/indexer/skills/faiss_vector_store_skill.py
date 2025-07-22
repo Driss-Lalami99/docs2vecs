@@ -6,8 +6,6 @@ from typing import Any
 
 import faiss
 import os
-import numpy as np
-
 from docs2vecs.subcommands.indexer.config.config import Config
 from docs2vecs.subcommands.indexer.document.document import Document
 from docs2vecs.subcommands.indexer.skills.skill import IndexerSkill
@@ -15,10 +13,6 @@ from docs2vecs.subcommands.indexer.skills.tracker import VectorStoreTracker
 from langchain_community.vectorstores import FAISS
 from langchain.schema import Document
 from langchain_community.docstore.in_memory import InMemoryDocstore
-
-# from langchain_core.embeddings import FakeEmbeddings
-# from langchain.embeddings import SentenceTransformerEmbeddings
-# from langchain.embeddings.openai import OpenAIEmbeddings
 
 
 class FaissVectorStoreSkill(IndexerSkill):
@@ -46,14 +40,14 @@ class FaissVectorStoreSkill(IndexerSkill):
 
         if os.path.exists(db_path):
             self.logger.info(f"Existing FAISS vector store found at {db_path}, loading and updating it.")
-            vector_store = FAISS.load_local(db_path, embeddings=self.return_embeddings(input), allow_dangerous_deserialization=True)
+            vector_store = FAISS.load_local(db_path, embeddings=self.get_embeddings(input), allow_dangerous_deserialization=True)
             # Get existing IDs as a set
             existing_ids = set(vector_store.index_to_docstore_id.values())
         else:
             self.logger.info(f"No existing FAISS vector store found at {db_path}, creating a new one.")
             vector_store = FAISS(
                 index=faiss_index,
-                embedding_function=self.return_embeddings(input),
+                embedding_function=self.get_embeddings(input),
                 docstore=InMemoryDocstore(),
                 index_to_docstore_id={}
             )
@@ -64,14 +58,6 @@ class FaissVectorStoreSkill(IndexerSkill):
         filtered_embeddings = [embeddings[i] for i, id_ in enumerate(ids) if id_ not in existing_ids]
         filtered_documents = [documents[i] for i, id_ in enumerate(ids) if id_ not in existing_ids]
         filtered_metadatas = [metadatas[i] for i, id_ in enumerate(ids) if id_ not in existing_ids]
-        # for i, id_ in enumerate(ids):
-        #     if id_ not in existing_ids:
-        #         filtered_ids.append(id_)
-        #         filtered_embeddings.append(embeddings[i])
-        #         filtered_documents.append(documents[i])
-        #         filtered_metadatas.append(metadatas[i])
-        #     else:
-        #         self.logger.info(f"Skipping duplicate id: {id_}")
 
         if filtered_ids:
             vector_store.add_embeddings(
@@ -87,7 +73,7 @@ class FaissVectorStoreSkill(IndexerSkill):
 
         return input
 
-    def return_embeddings(self, input: Optional[List[Document]] = None) -> List[float]:
+    def get_embeddings(self, input: Optional[List[Document]] = None) -> List[float]:
         data = []
         for doc in input:
            self.logger.debug(f"Processing document: {doc.filename}")

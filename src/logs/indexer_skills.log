@@ -3177,3 +3177,172 @@
 2025-07-21 16:55:34,637 - FaissVectorStoreSkill - DEBUG - Processing document: C:\Users\dlalami\Documents\docs2vec_ressources\files_to_read\test_file.txt
 2025-07-21 16:55:34,637 - FaissVectorStoreSkill - INFO - No new embeddings to add (all ids already exist).
 2025-07-21 16:55:34,639 - FaissVectorStoreSkill - INFO - FAISS vector store saved at C:/Users/dlalami/Documents/docs2vec_ressources/faissdb_storage/my_index.faiss
+2025-07-21 17:37:10,872 - FileScannerSkill - INFO - Running FileScannerSkill...
+2025-07-21 17:37:10,872 - FileScannerSkill - INFO - Found file: C:\Users\dlalami\Documents\docs2vec_ressources\files_to_read\Rafael_Nadal_and_Roland_Garros.docx
+2025-07-21 17:37:10,872 - FileScannerSkill - INFO - Found file: C:\Users\dlalami\Documents\docs2vec_ressources\files_to_read\test_file.txt
+2025-07-21 17:37:10,872 - FileScannerSkill - DEBUG - Returning 2 documents
+2025-07-21 17:37:10,872 - DefaultFileReader - INFO - Running DefaultFileReader...
+2025-07-21 17:37:12,472 - DefaultFileReader - INFO - Successfully read file: C:\Users\dlalami\Documents\docs2vec_ressources\files_to_read\Rafael_Nadal_and_Roland_Garros.docx
+2025-07-21 17:37:12,472 - DefaultFileReader - INFO - Successfully read file: C:\Users\dlalami\Documents\docs2vec_ressources\files_to_read\test_file.txt
+2025-07-21 17:37:12,473 - DefaultFileReader - INFO - Finished reading 2 documents
+2025-07-21 17:37:12,473 - RecursiveCharacterTextSplitter - INFO - Running RecursiveCharacterTextSplitter...
+2025-07-21 17:37:12,473 - RecursiveCharacterTextSplitter - DEBUG - Splitting C:\Users\dlalami\Documents\docs2vec_ressources\files_to_read\Rafael_Nadal_and_Roland_Garros.docx...
+2025-07-21 17:37:12,474 - RecursiveCharacterTextSplitter - DEBUG - Split C:\Users\dlalami\Documents\docs2vec_ressources\files_to_read\Rafael_Nadal_and_Roland_Garros.docx into 4 chunks
+2025-07-21 17:37:12,474 - RecursiveCharacterTextSplitter - DEBUG - Splitting C:\Users\dlalami\Documents\docs2vec_ressources\files_to_read\test_file.txt...
+2025-07-21 17:37:12,474 - RecursiveCharacterTextSplitter - DEBUG - Split C:\Users\dlalami\Documents\docs2vec_ressources\files_to_read\test_file.txt into 1 chunks
+2025-07-21 17:37:12,977 - LlamaFastembedEmbeddingSkill - INFO - Running LlamaFastembedEmbeddingSkill...
+
+2025-07-21 17:37:12,977 - LlamaFastembedEmbeddingSkill - DEBUG - Going to process 2 documents
+2025-07-21 17:37:12,977 - LlamaFastembedEmbeddingSkill - DEBUG - Processing document: C:\Users\dlalami\Documents\docs2vec_ressources\files_to_read\Rafael_Nadal_and_Roland_Garros.docx
+2025-07-21 17:37:13,057 - LlamaFastembedEmbeddingSkill - DEBUG - Processing document: C:\Users\dlalami\Documents\docs2vec_ressources\files_to_read\test_file.txt
+2025-07-21 17:37:13,063 - FaissVectorStoreSkill - INFO - Running FaissVectorStoreSkill...
+2025-07-21 17:37:13,063 - FaissVectorStoreSkill - DEBUG - Processing document: C:\Users\dlalami\Documents\docs2vec_ressources\files_to_read\Rafael_Nadal_and_Roland_Garros.docx
+2025-07-21 17:37:13,063 - FaissVectorStoreSkill - DEBUG - Processing document: C:\Users\dlalami\Documents\docs2vec_ressources\files_to_read\test_file.txt
+2025-07-21 17:37:13,063 - FaissVectorStoreSkill - INFO - Existing FAISS vector store found at C:/Users/dlalami/Documents/docs2vec_ressources/faissdb_storage/my_index.faiss, loading and updating it.
+2025-07-21 17:37:13,063 - FaissVectorStoreSkill - DEBUG - Processing document: C:\Users\dlalami\Documents\docs2vec_ressources\files_to_read\Rafael_Nadal_and_Roland_Garros.docx
+2025-07-21 17:37:13,063 - FaissVectorStoreSkill - DEBUG - Processing document: C:\Users\dlalami\Documents\docs2vec_ressources\files_to_read\test_file.txt
+2025-07-21 17:37:13,079 - FaissVectorStoreSkill - INFO - No new embeddings to add (all ids already exist).
+2025-07-21 17:37:13,079 - FaissVectorStoreSkill - INFO - FAISS vector store saved at C:/Users/dlalami/Documents/docs2vec_ressources/faissdb_storage/my_index.faiss
+2025-07-22 10:41:44,950 - FileScannerSkill - INFO - Running FileScannerSkill...
+2025-07-22 10:41:44,950 - FileScannerSkill - INFO - Found file: C:\Users\dlalami\Documents\docs2vec_ressources\files_to_read\Rafael_Nadal_and_Roland_Garros.docx
+2025-07-22 10:41:44,950 - FileScannerSkill - INFO - Found file: C:\Users\dlalami\Documents\docs2vec_ressources\files_to_read\test_file.txt
+2025-07-22 10:41:44,950 - FileScannerSkill - DEBUG - Returning 2 documents
+2025-07-22 10:41:44,950 - DefaultFileReader - INFO - Running DefaultFileReader...
+2025-07-22 10:41:46,165 - DefaultFileReader - INFO - Successfully read file: C:\Users\dlalami\Documents\docs2vec_ressources\files_to_read\Rafael_Nadal_and_Roland_Garros.docx
+2025-07-22 10:41:46,165 - DefaultFileReader - INFO - Successfully read file: C:\Users\dlalami\Documents\docs2vec_ressources\files_to_read\test_file.txt
+2025-07-22 10:41:46,165 - DefaultFileReader - INFO - Finished reading 2 documents
+2025-07-22 10:41:46,165 - RecursiveCharacterTextSplitter - INFO - Running RecursiveCharacterTextSplitter...
+2025-07-22 10:41:46,165 - RecursiveCharacterTextSplitter - DEBUG - Splitting C:\Users\dlalami\Documents\docs2vec_ressources\files_to_read\Rafael_Nadal_and_Roland_Garros.docx...
+2025-07-22 10:41:46,165 - RecursiveCharacterTextSplitter - DEBUG - Split C:\Users\dlalami\Documents\docs2vec_ressources\files_to_read\Rafael_Nadal_and_Roland_Garros.docx into 4 chunks
+2025-07-22 10:41:46,165 - RecursiveCharacterTextSplitter - DEBUG - Splitting C:\Users\dlalami\Documents\docs2vec_ressources\files_to_read\test_file.txt...
+2025-07-22 10:41:46,165 - RecursiveCharacterTextSplitter - DEBUG - Split C:\Users\dlalami\Documents\docs2vec_ressources\files_to_read\test_file.txt into 1 chunks
+2025-07-22 10:41:46,726 - LlamaFastembedEmbeddingSkill - INFO - Running LlamaFastembedEmbeddingSkill...
+
+2025-07-22 10:41:46,726 - LlamaFastembedEmbeddingSkill - DEBUG - Going to process 2 documents
+2025-07-22 10:41:46,726 - LlamaFastembedEmbeddingSkill - DEBUG - Processing document: C:\Users\dlalami\Documents\docs2vec_ressources\files_to_read\Rafael_Nadal_and_Roland_Garros.docx
+2025-07-22 10:41:46,774 - LlamaFastembedEmbeddingSkill - DEBUG - Processing document: C:\Users\dlalami\Documents\docs2vec_ressources\files_to_read\test_file.txt
+2025-07-22 10:41:46,789 - FaissVectorStoreSkill - INFO - Running FaissVectorStoreSkill...
+2025-07-22 10:41:46,789 - FaissVectorStoreSkill - DEBUG - Processing document: C:\Users\dlalami\Documents\docs2vec_ressources\files_to_read\Rafael_Nadal_and_Roland_Garros.docx
+2025-07-22 10:41:46,789 - FaissVectorStoreSkill - DEBUG - Processing document: C:\Users\dlalami\Documents\docs2vec_ressources\files_to_read\test_file.txt
+2025-07-22 10:41:46,789 - FaissVectorStoreSkill - INFO - Existing FAISS vector store found at C:/Users/dlalami/Documents/docs2vec_ressources/faissdb_storage/my_index.faiss, loading and updating it.
+2025-07-22 10:41:46,789 - FaissVectorStoreSkill - DEBUG - Processing document: C:\Users\dlalami\Documents\docs2vec_ressources\files_to_read\Rafael_Nadal_and_Roland_Garros.docx
+2025-07-22 10:41:46,789 - FaissVectorStoreSkill - DEBUG - Processing document: C:\Users\dlalami\Documents\docs2vec_ressources\files_to_read\test_file.txt
+2025-07-22 10:41:46,789 - FaissVectorStoreSkill - INFO - No new embeddings to add (all ids already exist).
+2025-07-22 10:41:46,806 - FaissVectorStoreSkill - INFO - FAISS vector store saved at C:/Users/dlalami/Documents/docs2vec_ressources/faissdb_storage/my_index.faiss
+2025-07-22 10:44:38,959 - FileScannerSkill - INFO - Running FileScannerSkill...
+2025-07-22 10:44:38,959 - FileScannerSkill - INFO - Found file: C:\Users\dlalami\Documents\docs2vec_ressources\files_to_read\Rafael_Nadal_and_Roland_Garros.docx
+2025-07-22 10:44:38,959 - FileScannerSkill - DEBUG - Returning 1 documents
+2025-07-22 10:44:38,960 - DefaultFileReader - INFO - Running DefaultFileReader...
+2025-07-22 10:44:40,668 - DefaultFileReader - INFO - Successfully read file: C:\Users\dlalami\Documents\docs2vec_ressources\files_to_read\Rafael_Nadal_and_Roland_Garros.docx
+2025-07-22 10:44:40,668 - DefaultFileReader - INFO - Finished reading 1 documents
+2025-07-22 10:44:40,668 - RecursiveCharacterTextSplitter - INFO - Running RecursiveCharacterTextSplitter...
+2025-07-22 10:44:40,668 - RecursiveCharacterTextSplitter - DEBUG - Splitting C:\Users\dlalami\Documents\docs2vec_ressources\files_to_read\Rafael_Nadal_and_Roland_Garros.docx...
+2025-07-22 10:44:40,668 - RecursiveCharacterTextSplitter - DEBUG - Split C:\Users\dlalami\Documents\docs2vec_ressources\files_to_read\Rafael_Nadal_and_Roland_Garros.docx into 4 chunks
+2025-07-22 10:44:41,312 - LlamaFastembedEmbeddingSkill - INFO - Running LlamaFastembedEmbeddingSkill...
+
+2025-07-22 10:44:41,312 - LlamaFastembedEmbeddingSkill - DEBUG - Going to process 1 documents
+2025-07-22 10:44:41,312 - LlamaFastembedEmbeddingSkill - DEBUG - Processing document: C:\Users\dlalami\Documents\docs2vec_ressources\files_to_read\Rafael_Nadal_and_Roland_Garros.docx
+2025-07-22 10:44:41,371 - FaissVectorStoreSkill - INFO - Running FaissVectorStoreSkill...
+2025-07-22 10:44:41,372 - FaissVectorStoreSkill - DEBUG - Processing document: C:\Users\dlalami\Documents\docs2vec_ressources\files_to_read\Rafael_Nadal_and_Roland_Garros.docx
+2025-07-22 10:44:41,372 - FaissVectorStoreSkill - INFO - Existing FAISS vector store found at C:/Users/dlalami/Documents/docs2vec_ressources/faissdb_storage/my_index.faiss, loading and updating it.
+2025-07-22 10:44:41,372 - FaissVectorStoreSkill - DEBUG - Processing document: C:\Users\dlalami\Documents\docs2vec_ressources\files_to_read\Rafael_Nadal_and_Roland_Garros.docx
+2025-07-22 10:44:41,374 - FaissVectorStoreSkill - INFO - FAISS vector store saved at C:/Users/dlalami/Documents/docs2vec_ressources/faissdb_storage/my_index.faiss
+2025-07-22 10:45:10,073 - FileScannerSkill - INFO - Running FileScannerSkill...
+2025-07-22 10:45:10,074 - FileScannerSkill - INFO - Found file: C:\Users\dlalami\Documents\docs2vec_ressources\files_to_read\Rafael_Nadal_and_Roland_Garros.docx
+2025-07-22 10:45:10,074 - FileScannerSkill - DEBUG - Returning 1 documents
+2025-07-22 10:45:10,075 - DefaultFileReader - INFO - Running DefaultFileReader...
+2025-07-22 10:45:11,242 - DefaultFileReader - INFO - Successfully read file: C:\Users\dlalami\Documents\docs2vec_ressources\files_to_read\Rafael_Nadal_and_Roland_Garros.docx
+2025-07-22 10:45:11,242 - DefaultFileReader - INFO - Finished reading 1 documents
+2025-07-22 10:45:11,242 - RecursiveCharacterTextSplitter - INFO - Running RecursiveCharacterTextSplitter...
+2025-07-22 10:45:11,242 - RecursiveCharacterTextSplitter - DEBUG - Splitting C:\Users\dlalami\Documents\docs2vec_ressources\files_to_read\Rafael_Nadal_and_Roland_Garros.docx...
+2025-07-22 10:45:11,242 - RecursiveCharacterTextSplitter - DEBUG - Split C:\Users\dlalami\Documents\docs2vec_ressources\files_to_read\Rafael_Nadal_and_Roland_Garros.docx into 4 chunks
+2025-07-22 10:45:11,740 - LlamaFastembedEmbeddingSkill - INFO - Running LlamaFastembedEmbeddingSkill...
+
+2025-07-22 10:45:11,740 - LlamaFastembedEmbeddingSkill - DEBUG - Going to process 1 documents
+2025-07-22 10:45:11,740 - LlamaFastembedEmbeddingSkill - DEBUG - Processing document: C:\Users\dlalami\Documents\docs2vec_ressources\files_to_read\Rafael_Nadal_and_Roland_Garros.docx
+2025-07-22 10:45:11,793 - FaissVectorStoreSkill - INFO - Running FaissVectorStoreSkill...
+2025-07-22 10:45:11,793 - FaissVectorStoreSkill - DEBUG - Processing document: C:\Users\dlalami\Documents\docs2vec_ressources\files_to_read\Rafael_Nadal_and_Roland_Garros.docx
+2025-07-22 10:45:11,793 - FaissVectorStoreSkill - INFO - Existing FAISS vector store found at C:/Users/dlalami/Documents/docs2vec_ressources/faissdb_storage/my_index.faiss, loading and updating it.
+2025-07-22 10:45:11,793 - FaissVectorStoreSkill - DEBUG - Processing document: C:\Users\dlalami\Documents\docs2vec_ressources\files_to_read\Rafael_Nadal_and_Roland_Garros.docx
+2025-07-22 10:45:11,793 - FaissVectorStoreSkill - INFO - No new embeddings to add (all ids already exist).
+2025-07-22 10:45:11,793 - FaissVectorStoreSkill - INFO - FAISS vector store saved at C:/Users/dlalami/Documents/docs2vec_ressources/faissdb_storage/my_index.faiss
+2025-07-22 10:47:01,420 - FileScannerSkill - INFO - Running FileScannerSkill...
+2025-07-22 10:47:01,420 - FileScannerSkill - INFO - Found file: C:\Users\dlalami\Documents\docs2vec_ressources\files_to_read\Rafael_Nadal_and_Roland_Garros.docx
+2025-07-22 10:47:01,420 - FileScannerSkill - DEBUG - Returning 1 documents
+2025-07-22 10:47:01,420 - DefaultFileReader - INFO - Running DefaultFileReader...
+2025-07-22 10:47:02,549 - DefaultFileReader - INFO - Successfully read file: C:\Users\dlalami\Documents\docs2vec_ressources\files_to_read\Rafael_Nadal_and_Roland_Garros.docx
+2025-07-22 10:47:02,550 - DefaultFileReader - INFO - Finished reading 1 documents
+2025-07-22 10:47:02,550 - RecursiveCharacterTextSplitter - INFO - Running RecursiveCharacterTextSplitter...
+2025-07-22 10:47:02,551 - RecursiveCharacterTextSplitter - DEBUG - Splitting C:\Users\dlalami\Documents\docs2vec_ressources\files_to_read\Rafael_Nadal_and_Roland_Garros.docx...
+2025-07-22 10:47:02,551 - RecursiveCharacterTextSplitter - DEBUG - Split C:\Users\dlalami\Documents\docs2vec_ressources\files_to_read\Rafael_Nadal_and_Roland_Garros.docx into 4 chunks
+2025-07-22 10:47:03,209 - LlamaFastembedEmbeddingSkill - INFO - Running LlamaFastembedEmbeddingSkill...
+
+2025-07-22 10:47:03,209 - LlamaFastembedEmbeddingSkill - DEBUG - Going to process 1 documents
+2025-07-22 10:47:03,209 - LlamaFastembedEmbeddingSkill - DEBUG - Processing document: C:\Users\dlalami\Documents\docs2vec_ressources\files_to_read\Rafael_Nadal_and_Roland_Garros.docx
+2025-07-22 10:47:03,260 - FaissVectorStoreSkill - INFO - Running FaissVectorStoreSkill...
+2025-07-22 10:47:03,260 - FaissVectorStoreSkill - DEBUG - Processing document: C:\Users\dlalami\Documents\docs2vec_ressources\files_to_read\Rafael_Nadal_and_Roland_Garros.docx
+2025-07-22 10:47:03,260 - FaissVectorStoreSkill - INFO - No existing FAISS vector store found at C:/Users/dlalami/Documents/docs2vec_ressources/faissdb_storage/my_index.faiss, creating a new one.
+2025-07-22 10:47:03,260 - FaissVectorStoreSkill - DEBUG - Processing document: C:\Users\dlalami\Documents\docs2vec_ressources\files_to_read\Rafael_Nadal_and_Roland_Garros.docx
+2025-07-22 10:47:03,268 - FaissVectorStoreSkill - INFO - FAISS vector store saved at C:/Users/dlalami/Documents/docs2vec_ressources/faissdb_storage/my_index.faiss
+2025-07-22 10:49:04,320 - FileScannerSkill - INFO - Running FileScannerSkill...
+2025-07-22 10:49:04,321 - FileScannerSkill - INFO - Found file: C:\Users\dlalami\Documents\docs2vec_ressources\files_to_read\Rafael_Nadal_and_Roland_Garros.docx
+2025-07-22 10:49:04,321 - FileScannerSkill - INFO - Found file: C:\Users\dlalami\Documents\docs2vec_ressources\files_to_read\test_file.txt
+2025-07-22 10:49:04,321 - FileScannerSkill - DEBUG - Returning 2 documents
+2025-07-22 10:49:04,322 - DefaultFileReader - INFO - Running DefaultFileReader...
+2025-07-22 10:49:05,600 - DefaultFileReader - INFO - Successfully read file: C:\Users\dlalami\Documents\docs2vec_ressources\files_to_read\Rafael_Nadal_and_Roland_Garros.docx
+2025-07-22 10:49:05,600 - DefaultFileReader - INFO - Successfully read file: C:\Users\dlalami\Documents\docs2vec_ressources\files_to_read\test_file.txt
+2025-07-22 10:49:05,600 - DefaultFileReader - INFO - Finished reading 2 documents
+2025-07-22 10:49:05,616 - RecursiveCharacterTextSplitter - INFO - Running RecursiveCharacterTextSplitter...
+2025-07-22 10:49:05,616 - RecursiveCharacterTextSplitter - DEBUG - Splitting C:\Users\dlalami\Documents\docs2vec_ressources\files_to_read\Rafael_Nadal_and_Roland_Garros.docx...
+2025-07-22 10:49:05,616 - RecursiveCharacterTextSplitter - DEBUG - Split C:\Users\dlalami\Documents\docs2vec_ressources\files_to_read\Rafael_Nadal_and_Roland_Garros.docx into 4 chunks
+2025-07-22 10:49:05,616 - RecursiveCharacterTextSplitter - DEBUG - Splitting C:\Users\dlalami\Documents\docs2vec_ressources\files_to_read\test_file.txt...
+2025-07-22 10:49:05,616 - RecursiveCharacterTextSplitter - DEBUG - Split C:\Users\dlalami\Documents\docs2vec_ressources\files_to_read\test_file.txt into 1 chunks
+2025-07-22 10:49:06,180 - LlamaFastembedEmbeddingSkill - INFO - Running LlamaFastembedEmbeddingSkill...
+
+2025-07-22 10:49:06,180 - LlamaFastembedEmbeddingSkill - DEBUG - Going to process 2 documents
+2025-07-22 10:49:06,180 - LlamaFastembedEmbeddingSkill - DEBUG - Processing document: C:\Users\dlalami\Documents\docs2vec_ressources\files_to_read\Rafael_Nadal_and_Roland_Garros.docx
+2025-07-22 10:49:06,220 - LlamaFastembedEmbeddingSkill - DEBUG - Processing document: C:\Users\dlalami\Documents\docs2vec_ressources\files_to_read\test_file.txt
+2025-07-22 10:49:06,237 - FaissVectorStoreSkill - INFO - Running FaissVectorStoreSkill...
+2025-07-22 10:49:06,237 - FaissVectorStoreSkill - DEBUG - Processing document: C:\Users\dlalami\Documents\docs2vec_ressources\files_to_read\Rafael_Nadal_and_Roland_Garros.docx
+2025-07-22 10:49:06,237 - FaissVectorStoreSkill - DEBUG - Processing document: C:\Users\dlalami\Documents\docs2vec_ressources\files_to_read\test_file.txt
+2025-07-22 10:49:06,237 - FaissVectorStoreSkill - INFO - Existing FAISS vector store found at C:/Users/dlalami/Documents/docs2vec_ressources/faissdb_storage/my_index.faiss, loading and updating it.
+2025-07-22 10:49:06,237 - FaissVectorStoreSkill - DEBUG - Processing document: C:\Users\dlalami\Documents\docs2vec_ressources\files_to_read\Rafael_Nadal_and_Roland_Garros.docx
+2025-07-22 10:49:06,237 - FaissVectorStoreSkill - DEBUG - Processing document: C:\Users\dlalami\Documents\docs2vec_ressources\files_to_read\test_file.txt
+2025-07-22 10:49:06,237 - FaissVectorStoreSkill - INFO - FAISS vector store saved at C:/Users/dlalami/Documents/docs2vec_ressources/faissdb_storage/my_index.faiss
+2025-07-22 11:08:38,197 - FileScannerSkill - INFO - Running FileScannerSkill...
+2025-07-22 11:08:38,197 - FileScannerSkill - INFO - Found file: C:\Users\dlalami\Documents\docs2vec_ressources\files_to_read\test_file.txt
+2025-07-22 11:08:38,197 - FileScannerSkill - DEBUG - Returning 1 documents
+2025-07-22 11:08:38,197 - DefaultFileReader - INFO - Running DefaultFileReader...
+2025-07-22 11:08:38,197 - DefaultFileReader - INFO - Successfully read file: C:\Users\dlalami\Documents\docs2vec_ressources\files_to_read\test_file.txt
+2025-07-22 11:08:38,197 - DefaultFileReader - INFO - Finished reading 1 documents
+2025-07-22 11:08:38,197 - RecursiveCharacterTextSplitter - INFO - Running RecursiveCharacterTextSplitter...
+2025-07-22 11:08:38,197 - RecursiveCharacterTextSplitter - DEBUG - Splitting C:\Users\dlalami\Documents\docs2vec_ressources\files_to_read\test_file.txt...
+2025-07-22 11:08:38,197 - RecursiveCharacterTextSplitter - DEBUG - Split C:\Users\dlalami\Documents\docs2vec_ressources\files_to_read\test_file.txt into 1 chunks
+2025-07-22 11:08:38,824 - LlamaFastembedEmbeddingSkill - INFO - Running LlamaFastembedEmbeddingSkill...
+
+2025-07-22 11:08:38,824 - LlamaFastembedEmbeddingSkill - DEBUG - Going to process 1 documents
+2025-07-22 11:08:38,824 - LlamaFastembedEmbeddingSkill - DEBUG - Processing document: C:\Users\dlalami\Documents\docs2vec_ressources\files_to_read\test_file.txt
+2025-07-22 11:08:38,845 - FaissVectorStoreSkill - INFO - Running FaissVectorStoreSkill...
+2025-07-22 11:08:38,845 - FaissVectorStoreSkill - DEBUG - Processing document: C:\Users\dlalami\Documents\docs2vec_ressources\files_to_read\test_file.txt
+2025-07-22 11:08:38,846 - FaissVectorStoreSkill - INFO - Existing FAISS vector store found at C:/Users/dlalami/Documents/docs2vec_ressources/faissdb_storage/my_index.faiss, loading and updating it.
+2025-07-22 11:08:38,846 - FaissVectorStoreSkill - DEBUG - Processing document: C:\Users\dlalami\Documents\docs2vec_ressources\files_to_read\test_file.txt
+2025-07-22 11:08:38,847 - FaissVectorStoreSkill - INFO - No new embeddings to add (all ids already exist).
+2025-07-22 11:08:38,848 - FaissVectorStoreSkill - INFO - FAISS vector store saved at C:/Users/dlalami/Documents/docs2vec_ressources/faissdb_storage/my_index.faiss
+2025-07-22 11:09:09,381 - FileScannerSkill - INFO - Running FileScannerSkill...
+2025-07-22 11:09:09,381 - FileScannerSkill - INFO - Found file: C:\Users\dlalami\Documents\docs2vec_ressources\files_to_read\test_file.txt
+2025-07-22 11:09:09,381 - FileScannerSkill - DEBUG - Returning 1 documents
+2025-07-22 11:09:09,381 - DefaultFileReader - INFO - Running DefaultFileReader...
+2025-07-22 11:09:09,381 - DefaultFileReader - INFO - Successfully read file: C:\Users\dlalami\Documents\docs2vec_ressources\files_to_read\test_file.txt
+2025-07-22 11:09:09,381 - DefaultFileReader - INFO - Finished reading 1 documents
+2025-07-22 11:09:09,381 - RecursiveCharacterTextSplitter - INFO - Running RecursiveCharacterTextSplitter...
+2025-07-22 11:09:09,381 - RecursiveCharacterTextSplitter - DEBUG - Splitting C:\Users\dlalami\Documents\docs2vec_ressources\files_to_read\test_file.txt...
+2025-07-22 11:09:09,381 - RecursiveCharacterTextSplitter - DEBUG - Split C:\Users\dlalami\Documents\docs2vec_ressources\files_to_read\test_file.txt into 1 chunks
+2025-07-22 11:09:09,899 - LlamaFastembedEmbeddingSkill - INFO - Running LlamaFastembedEmbeddingSkill...
+
+2025-07-22 11:09:09,899 - LlamaFastembedEmbeddingSkill - DEBUG - Going to process 1 documents
+2025-07-22 11:09:09,899 - LlamaFastembedEmbeddingSkill - DEBUG - Processing document: C:\Users\dlalami\Documents\docs2vec_ressources\files_to_read\test_file.txt
+2025-07-22 11:09:09,918 - FaissVectorStoreSkill - INFO - Running FaissVectorStoreSkill...
+2025-07-22 11:09:09,918 - FaissVectorStoreSkill - DEBUG - Processing document: C:\Users\dlalami\Documents\docs2vec_ressources\files_to_read\test_file.txt
+2025-07-22 11:09:09,918 - FaissVectorStoreSkill - INFO - No existing FAISS vector store found at C:/Users/dlalami/Documents/docs2vec_ressources/faissdb_storage/my_index.faiss, creating a new one.
+2025-07-22 11:09:09,918 - FaissVectorStoreSkill - DEBUG - Processing document: C:\Users\dlalami\Documents\docs2vec_ressources\files_to_read\test_file.txt
+2025-07-22 11:09:09,918 - FaissVectorStoreSkill - INFO - FAISS vector store saved at C:/Users/dlalami/Documents/docs2vec_ressources/faissdb_storage/my_index.faiss
