@@ -31,8 +31,6 @@ class ChromaDBVectorStoreSkill(IndexerSkill):
                 documents=[chunk.content for chunk in doc.chunks],
                 metadatas=[{"source": chunk.source_link, "tags": doc.tag} for chunk in doc.chunks],
             )
-        print("the embeddings of the chroma collection are : ", chroma_collection.get(include = ["embeddings"]) )
-        print(self._global_config)
 
         return input
 
