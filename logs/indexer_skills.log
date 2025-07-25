@@ -1,0 +1,9 @@
+2025-07-25 14:27:10,048 - FaissVectorStoreSkill - INFO - Running FaissVectorStoreSkill...
+2025-07-25 14:27:10,049 - FaissVectorStoreSkill - DEBUG - Processing document: test_doc
+2025-07-25 14:27:10,049 - FaissVectorStoreSkill - DEBUG - ids in the processed file are : ['chunk_1']
+2025-07-25 14:27:10,049 - FaissVectorStoreSkill - DEBUG - the value of overwrite_index is : True
+2025-07-25 14:27:10,049 - FaissVectorStoreSkill - INFO - Existing FAISS vector store found at C:/Users/dlalami/Documents/docs2vec_ressources/faissdb_test/my_index_test.faiss, loading and updating it.
+2025-07-25 14:27:10,049 - FaissVectorStoreSkill - DEBUG - Processing document: test_doc
+2025-07-25 14:27:10,051 - FaissVectorStoreSkill - INFO - Deleting existing index.
+2025-07-25 14:27:10,051 - FaissVectorStoreSkill - DEBUG - ids to add are : ['chunk_1']
+2025-07-25 14:27:10,051 - FaissVectorStoreSkill - INFO - Adding 1 new embeddings to the vector store.
