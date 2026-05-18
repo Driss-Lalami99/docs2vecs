@@ -3,10 +3,23 @@ import time
 from typing import List, Optional
 
 import boto3
+from botocore.exceptions import BotoCoreError, ClientError
 
 from docs2vecs.subcommands.indexer.config.config import Config
 from docs2vecs.subcommands.indexer.document.document import Document
 from docs2vecs.subcommands.indexer.skills.skill import IndexerSkill
+
+# Bedrock error codes that represent transient failures worth retrying.
+# Permanent errors (ValidationException, AccessDeniedException,
+# ResourceNotFoundException, etc.) surface immediately.
+_RETRYABLE_BEDROCK_CODES = frozenset({
+    "ThrottlingException",
+    "TooManyRequestsException",
+    "ServiceUnavailableException",
+    "InternalServerException",
+    "ModelTimeoutException",
+    "ModelStreamErrorException",
+})
 
 
 class BedrockTitanEmbeddingSkill(IndexerSkill):
@@ -26,6 +39,14 @@ class BedrockTitanEmbeddingSkill(IndexerSkill):
             "bedrock-runtime",
             region_name=self._config.get("region"),
         )
+
+    def _is_retryable(self, exc: Exception) -> bool:
+        if isinstance(exc, ClientError):
+            code = exc.response.get("Error", {}).get("Code", "")
+            status = exc.response.get("ResponseMetadata", {}).get("HTTPStatusCode", 0)
+            return code in _RETRYABLE_BEDROCK_CODES or 500 <= status < 600
+        # BotoCoreError covers connection/read timeouts and other transport-level issues
+        return isinstance(exc, BotoCoreError)
 
     def _embed_text(self, content: str, chunk_id=None):
         self.logger.debug(
@@ -51,8 +72,8 @@ class BedrockTitanEmbeddingSkill(IndexerSkill):
                     f"Successfully received embedding for chunk_id={chunk_id}, embedding_dim={len(embedding) if embedding else 0}"
                 )
                 return embedding
-            except Exception as exc:
-                if attempt == self._max_retries - 1:
+            except (ClientError, BotoCoreError) as exc:
+                if attempt == self._max_retries - 1 or not self._is_retryable(exc):
                     raise
                 wait = self._retry_backoff * (attempt + 1)
                 self.logger.warning(
