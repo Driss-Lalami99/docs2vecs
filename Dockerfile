@@ -17,13 +17,14 @@ RUN echo "sslverify=0" >> /etc/dnf/dnf.conf \
     && sed -i '/sslverify=0/d' /etc/dnf/dnf.conf \
     && update-ca-trust extract 
 
+WORKDIR /app
+
 RUN curl -LsSf https://astral.sh/uv/install.sh | sh \
     && source $HOME/.local/bin/env \
-    && uv python install 3.11 \
+    && uv --system-certs python install 3.11 \
     && uv venv \
-    && cd /tmp/build \
-    && uv --native-tls pip install --no-cache --override /tmp/build/etc/uv-overrides.txt . \
-    && uv --native-tls run --script /tmp/build/etc/fetchDefaultModels.py \
+    && uv --system-certs pip install --no-cache --override /tmp/build/etc/uv-overrides.txt /tmp/build \
+    && uv --system-certs run --script /tmp/build/etc/fetchDefaultModels.py \
     && rm -rf /tmp/build
 
-ENTRYPOINT ["/root/.local/bin/uv", "--native-tls", "run", "docs2vecs"]
+ENTRYPOINT ["/root/.local/bin/uv", "--system-certs", "run", "docs2vecs"]
