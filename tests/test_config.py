@@ -94,3 +94,25 @@ def test_config():
     }
     assert actual_vector_store_config is not None
     assert actual_vector_store_config == expected_vector_store_config
+
+
+def test_sample_configs_are_valid():
+    schema_file = Path("src/docs2vecs/subcommands/indexer/config/config_schema.yaml")
+
+    for config_file in (
+        Path("samples/pdf-only/config.yml"),
+        Path("samples/markdown-only/config.yml"),
+    ):
+        config = Config(config_file, schema_file)
+        assert config is not None
+
+        skill_names = [
+            skill_config["name"] for skill_config in config.get_skills_config_dict()
+        ]
+        assert skill_names == [
+            "multi-file-scanner",
+            "multi-file-reader",
+            "recursive-character-splitter",
+            "llama-fastembed",
+            "chromadb",
+        ]

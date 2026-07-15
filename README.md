@@ -47,6 +47,13 @@ ${OCI_ENGINE}  run -it --rm \
 
 # Documentation
 
+If you are discovering `docs2vecs` for the first time, start with the [samples](samples/) folder. It contains clear end-to-end examples with local data, ready-to-run config files, and step-by-step README instructions so you can understand how the indexer works before adapting it to your own documents.
+
+The current samples include:
+
+- [PDF only](samples/pdf-only/) — index a local PDF file into a generated ChromaDB collection.
+- [Markdown only](samples/markdown-only/) — index a local Markdown file into a generated ChromaDB collection.
+
 <details><summary>Expand me if you would like to find out how to vectorize your data</summary>
 
 ## Indexer sub-command

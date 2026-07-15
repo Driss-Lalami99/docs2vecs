@@ -1,0 +1,40 @@
+definitions:
+  - skill: &FileScanner
+      type: file-scanner
+      name: multi-file-scanner
+      params:
+        path: samples/markdown-only/input
+        filter: ["*.md"]
+        recursive: false
+
+  - skill: &FileReader
+      type: file-reader
+      name: multi-file-reader
+
+  - skill: &TextSplitter
+      type: splitter
+      name: recursive-character-splitter
+      params:
+        chunk_size: 1000
+        overlap: 100
+
+  - skill: &FastEmbed
+      type: embedding
+      name: llama-fastembed
+
+  - skill: &ChromaDB
+      type: vector-store
+      name: chromadb
+      params:
+        db_path: samples/markdown-only/output
+        collection_name: markdown-sample-collection
+
+  - skillset: &MarkdownSkillset
+      - *FileScanner
+      - *FileReader
+      - *TextSplitter
+      - *FastEmbed
+      - *ChromaDB
+
+indexer:
+  skillset: *MarkdownSkillset

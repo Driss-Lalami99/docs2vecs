@@ -81,3 +81,6 @@ src/logs/indexer_skills.log
 
 # chroma index sqlite3
 src/localhost/chroma.sqlite3
+
+# Generated sample vector stores
+samples/**/output/
